@@ -1,0 +1,727 @@
+﻿Order ID ,Order Date,Customer Name,Email Address,Phone,City,State,Product,Category ,Qty,Unit Price,Discount,Payment Method,Order Status,Sales Rep,Notes
+ORD-10590,6/4/26,Drew Wilson,drew.wilson27@example.com,272 949 5756,Bellevue,WA,Ergonomic Chair,Furniture,5, 289.00 ,0.00,ACH,Completed, Maria Lopez ,
+ORD-10284,9/1/26,Emerson Brown,emerson.brown91@example.com,298 918 9882,Denver,CO,wireless mouse,Electronics,1,$24.99,,Credit Card,Sent,Maria Lopez,Rush order
+ORD-10111,07/31/2026, Morgan Davis ,morgan.davis16@example.com,3385028222,Renton,WA,Webcam,Electronics,5,54.99,0.00,ACH,Shipped,BEN CARTER,Customer requested email update
+ORD-10588,08-19-2026, Alex Brown ,,318.728.1322,Denver,CO,USB-C Hub,Electronics,2,39.99,0.00,credit card,SHIPPED,Ben Carter,
+ORD-10092,3/16/26,Hayden Martinez,hayden.martinez16@example.com,(489) 278-5593,Seattle,WA,mechanical keyboard,Electronics,4,74.99,0.15,ACH,Refunded,BEN CARTER,Customer requested email update
+ORD-10360,August 8 2026,PARKER MARTINEZ,parker.martinez69@example.com,(213) 784-2167,Renton ,Washington,Webcam,Electronics,5,54.99,,Debit Card,Completed,Priya Shah,Repeat customer
+ORD-10621,7/13/26,Robin Jones,robin.jones4@example.com,3332282396,kirkland,WA,Cable Organizer,Accessories,4,9.99,N/A,Visa/Mastercard,Done,Daniel Kim,
+ORD-10126,January 6 2026,Taylor Lewis,taylor.lewis26@example.com,322-648-3752,Redmond,WA,Laptop Stand,office,5,$44.99,0.10,PayPal,Pending,Priya Shah,
+ORD-10516,04-20-2026,Taylor Wilson,taylor.wilson2@example.com,(227) 612-1831,Bothell,WA,Ergonomic Chair,Furniture,6,$289.00,0.00,PayPal,Completed,Maria Lopez,Gift
+ORD-10682,2026-02-16,Parker Martinez,parker.martinez69@example.com,213-784-2167,renton,Washington,Desk Organizer,Office,8,$18.50,0%,Debit Card,Completed,Daniel Kim,Call before delivery
+ORD-10106,1/16/26,SKYLER LEWIS,skyler.lewis82@example.com,415.363.6036,Phoenix,AZ,27in Monitor,Electronics,1, 219.99 ,0.00,Debit Card,Cancelled,Ben Carter,
+ORD-10544,2026-01-03,TAYLOR LEE,taylor.lee82@example.com,250 287 8882,Denver , CO ,Desk Organizer,Office,6,18.50,0.00,CC,Shipped,Marcus Green,
+ORD-10127,7/4/26,Kendall Rodriguez,kendall.rodriguez6@example.com,396-895-5067,Seattle,wa,Cable Organizer,Accessories,5,9.99,0.10,Invoice,Completed,Olivia Reed,
+ORD-10062,April 22 2026,Kendall Clark,,388.955.7890,BOTHELL,WA,Desk Lamp,FURNITURE,5,36.95,0.00,Credit Card,Completed,Marcus Green,
+ORD-10477,3/2/26,Emerson Thomas,emerson.thomas30@example.com,3384098326,Renton,WA,Water Bottle,Accessories,6,$19.99,0.00,INVOICE,Completed,olivia reed,
+ORD-10495,7/13/26,Quinn Brown,quinn.brown19@example.com,(445) 229-5162,Phoenix ,AZ,Notebook Set,Office,5,$12.99,N/A,ACH,Completed,Daniel Kim,Call before delivery
+ORD-10077,04-05-2026,Emerson Williams,emerson.williams7@example.com,(262) 499-6563,Portland,or,mechanical keyboard,Electronics,6,74.99,0.15,Debit Card,COMPLETED,Priya Shah,
+ORD-10010,1/8/26,Parker Anderson, parker.anderson40@example.com ,4627102122,tacoma,WA,Notebook Set,OFFICE,6,12.99,10%,Debit,Shipped,Olivia Reed,Deliver to front desk
+ORD-10083,2026-03-30,Jordan Lewis,jordan.lewis74@example.com,,Bellevue,WA,Backpack,Accessories,2,64.95,0.00,CC,Completed,Maria Lopez,Deliver to front desk
+ORD-10319,6/26/26,TAYLOR LEWIS,taylor.lewis26@example.com,322 648 3752,Redmond,WA,Desk Organizer,Office,3,18.50,10%,Credit Card,Pending,Marcus Green,Rush order
+ORD-10329,08/22/2026,Jamie Young,jamie.young42@example.com,,Phoenix,AZ,Webcam,Electronics,6,54.99,0.10,Debit Card,Completed,Priya Shah,Deliver to front desk
+ORD-10690,April 5 2026,Quinn Thomas,quinn.thomas73@example.com,457.763.5744,Everett,WA,Backpack,Accessories,5,64.95,0.00,Credit Card,Completed,Maria Lopez,Repeat customer
+ORD-10026,"Feb 08, 2026",Emerson Brown,emerson.brown67@example.com,385.392.4923, Renton,WA,Water Bottle,Accessories,3,19.99,0.10,Paypal,Completed,Daniel Kim,Deliver to front desk
+ORD-10318,June 16 2026,Robin Harris,robin.harris63@example.com,279 375 9877,Kirkland,WA,Mech Keyboard,Electronics,2,74.99,0.10,Credit Card,Sent,Ben Carter,
+ORD-10493,2026-01-17,CAMERON WILSON,cameron.wilson63@example.com,(270) 817-7736,Portland,Oregon,Wireless Mouse,Electronics,2,24.99,0.00,Credit Card,Refunded,Marcus Green,Gift
+ORD-10546,1/6/26,Taylor Lewis,taylor.lewis26@example.com,(322) 648-3752, Redmond,WA,Notebook Set,Office,1,12.99,0.00,Invoice,Shipped,Marcus Green,
+ORD-10081,3/4/26,Taylor Clark,taylor.clark26@example.com,264-481-5356,San Francisco,CA,Standing Desk,Furniture,4,449.00,0.00,ACH,Completed,Daniel Kim,
+ORD-10260,8/29/26,Hayden Davis,hayden.davis46@example.com,(342) 230-1660,Kirkland,WA,Cable Organizer,Accessories,1,$9.99,0.05,Credit Card,pending,Marcus Green,
+ORD-10050,3/14/26,Emerson Brown,emerson.brown67@example.com,385-392-4923,Renton,WA,Wireless Mouse,Elec.,1,24.99,0.15,Credit Card,Shipped,PRIYA SHAH,
+ORD-10666,March 26 2026,EMERSON MARTINEZ,emerson.martinez17@example.con,2094926580,Kirkland,WA,Notebook Set,Office,5,12.99,0.00,Invoice,Completed,Priya Shah,
+ORD-10606,2026-05-04,Drew Wilson,drew.wilson27@example.com,272-949-5756,Bellevue,WA,Cable Organizer,Accessories,3,9.99,0.10,Debit Card,Pending,Priya Shah,
+ORD-10179,07-26-2026,Parker  Young,parker.young20@example.com,4367584785,Bothell,WA,Desk Lamp,Furniture,3,36.95,5%,debit,Cancelled,Ben Carter,Call before delivery
+ORD-10214,1/9/26,Robin Garcia,robin.garcia21@example.com,321.934.6686,Tacoma,WA,Desk Lamp,Furniture,5,36.95,0.15,PayPal,Shipped,Marcus Green,Rush order
+ORD-10439,March 10 2026,Reese Walker,reese.walker15@example.com,289 554 3255,Seattle,WA,27in Monitor,Electronics,6,219.99,0.00,Credit Card,Shipped,Marcus Green,Repeat customer
+ORD-10619,1/13/26,Robin Williams,robin.williams45@example.com,438-586-5166,Seattle,Washington,Desk Lamp,Furniture,2,36.95,0.10,Debit Card,Completed,Maria Lopez,Deliver to front desk
+ORD-10209,2026-01-13,Devin Brown,devin.brown22@example.com,(295) 889-8168,,WA,Ergo Chair,Furniture,1,$289.00,0.05,Debit Card,Completed,Ben  Carter,Customer requested email update
+ORD-10220,2026-04-25,Casey Davis,casey.davis98@example.com,315-276-3551, Seattle,WA,Mechanical Keyboard,Electronics,3,74.99,0.15,Invoice,Pending,Marcus Green,
+ORD-10037,07/25/2026,Taylor Lewis,taylor.lewis85@example.com,(222) 231-8278, Phoenix,AZ,Ergo Chair,Furniture,5,289.00,0.20,ACH,Completed,OLIVIA REED,
+ORD-10628,July 1 2026,parker williams,parker.williams28@example.com,480-418-7031,Seattle,WA,Backpack,Accessories,3, 64.95 ,0.00,ACH,Completed,Daniel Kim,
+ORD-10141,9/1/26,EMERSON BROWN,emerson.brown67@example.com,(385) 392-4923,Renton,WA,Wireless Mouse,Electronics,3,$24.99,5%,ACH,Completed,Ben Carter,
+ORD-10532,7/5/26,Jordan Lee,jordan.lee34@example.com,4475855327,Seattle,Washington,Noise Cancelling Headphones,Electronics,7,$129.99,0.00,Invoice,COMPLETED,MARIA LOPEZ,Call before delivery
+ORD-10191,August 18 2026, Drew Allen ,drew.allen33@example.com,4276151370,Renton,WA,Mechanical Keyboard,Electronics,2,74.99,0.00,ACH,Pending,Marcus Green,
+ORD-10192,July 2 2026,Avery  Lewis,avery.lewis53@example.com,480 541 7611, Redmond,Washington,27in Monitor,Electronics,2,$219.99,0.10,Invoice,Shipped,Daniel Kim,
+ORD-10691,6/12/26,drew lewis,drew.lewis89@example.com,236.791.2856,Bellevue,WA,Desk Lamp,Furniture,2,36.95,0.00,PayPal,Cancelled,BEN CARTER,Repeat customer
+ORD-10362,1/24/26,Avery Clark,avery.clark6@example.com,5054009478,Tacoma,WA,USB-C Hub,Elec.,4,39.99,,ACH,Shipped,Daniel Kim,
+ORD-10551,07-23-2026,Taylor Miller,taylor.miller36@example.com,401 287 1324,San Francisco,CA,Standing Desk,Furniture,,449.00,0.00,Invoice,Shipped, Olivia Reed ,Call before delivery
+ORD-10038,2026-01-23,RILEY SMITH,riley.smith11@example.com,462.443.3586,Kirkland,WA,Webcam,Electronics,5,$54.99,0%,PayPal,Completed,Priya Shah,
+ORD-10151,02/19/2026,Casey Davis,casey.davis98@example.com,315-276-3551,Seattle,WA,27in Monitor,Electronics,4,219.99,0.00,Credit Card,Completed,Marcus Green,
+ORD10465,July 16 2026,Drew Wilson,drew.wilson39@example.com,(500) 732-9821,BOTHELL,Washington,Desk Organizer,Office,4,18.50,0.00,Invoice,Pending,Marcus Green,
+ORD-10298,7/17/26,Emerson Rodriguez,emerson.rodriguez51@example.com,4487256594,Renton ,WA,Cable Organizer,Accessories,7, 9.99 ,N/A,Debit Card,Completed,Marcus Green,Call before delivery
+ORD-10110,03-02-2026,Emerson Allen,emerson.allen62example.com,,Bothell,WA,desk organizer,office,2,18.50,0.00,Invoice,Completed,Ben Carter,
+ORD-10121,2026-05-11,Drew Smith,drew.smith79@example.com,375 339 7404,Seattle,WA,Wireless Mouse,Electronics,2,24.99,N/A,Credit Card,Pending,Ben Carter,
+ORD-10479,2026-05-17,Emerson Allen,EMERSON.ALLEN62@EXAMPLE.COM,4965174262,Bothell, WA ,27in Monitor,Electronics,6,$219.99,0.00,ACH,Completed,Ben Carter,Repeat customer
+ord-10378,June 2 2026,Cameron Thomas,cameron.thomas44@example.com,259.520.4617,Bellevue,WA,Noise Cancelling Headphones,Electronics,2,$129.99,0.10,PayPal,Cancelled,Maria Lopez,Repeat customer
+ORD-10030,"Aug 07, 2026",Devin Brown,devin.brown87@example.com,2374828499,Denver,CO,Standing Desk,Furniture,3,449.00,0.10,Debit Card,Shipped,Daniel Kim,Customer requested email update
+ORD-10301,"May 22, 2026",Hayden Rodriguez,hayden.rodriguez5@example.com,274.637.9654,DENVER,CO,USB-C Hub,,3,39.99,0.00,ACH,Completed,Marcus Green,Rush order
+ORD-10047,06-10-2026, Emerson Martinez ,emerson.martinez17@example.com,209-492-6580,Kirkland,WA,USB-C Hub,Electronics,2,39.99,0.05,ACH,Completed,Priya Shah,Rush order
+ORD10616,"Apr 30, 2026",Kendall Rodriguez,kendall.rodriguez6@example.com,396.895.5067,Seattle,WA,USB-C Hub,Electronic,7,39.99,0.15,Credit Card,Completed,Ben Carter,Customer requested email update
+ORD-10183,2026-08-09,Sam Clark,SAM.CLARK32@EXAMPLE.COM,4197233006,Redmond,WA,Webcam,ELECTRONICS,4,54.99,0.10,PayPal,Shipped,olivia reed,Rush order
+ORD-10676,August 4 2026,Emerson Young,emerson.young46@example.com,354.703.5120,Portland,OR,Mechanical Keyboard,ELECTRONICS,two,74.99,,Credit Card,Cancelled,Maria Lopez,Deliver to front desk
+ORD-10251,2026-04-13,Jordan Allen,jordan.allen99@example.com,(338) 665-3668,Phoenix,AZ,Notebook Set,Office Supplies,1,12.99,N/A,Credit Card,Completed,Maria Lopez,Call before delivery
+ORD-10659,02/01/2026,Reese Miller,,361-630-6375,Redmond ,WA,back pack,Accessories,6,64.95,0.00,PayPal,PENDING,Ben Carter,Gift
+ORD-10117,1/26/26,Drew Smith,drew.smith79@example.com,3753397404,Seattle,WA,Ergonomic Chair,Furniture,5,289.00,0.05,Debit Card,Shipped,Olivia Reed,
+ORD-10412,06/28/2026,Emerson Miller,emerson.miller25@example.com,(313) 799-7329,Tacoma,WA,USB-C Hub,Electronics,7,$39.99,0.05,PayPal,Shipped,Maria Lopez,
+ORD-10177,04/01/2026,Sam Lewis,sam.lewis79@example.com,417-741-3360,Bothell,WA,Notebook Set,Office,two,12.99,,Invoice,Shipped,Daniel Kim,Gift
+ORD-10509,August 25 2026,Parker Lewis,parker.lewis19@example.com,439 659 2520,EVERETT,WA,"27"" Monitor",Electronics,6,$219.99,0.05,Invoice,Completed,Olivia Reed,
+ORD-10203,2026-08-26,QUINN THOMAS,quinn.thomas73@example.com,(457) 763-5744,Everett,wa,Desk Lamp,Furniture,8,36.95,0.10,ach,Completed, Maria Lopez ,Repeat customer
+ORD-10247,08/07/2026,Avery Williams,avery.williams65@example.com,(502) 441-2205,Seattle,WA,Wireless Mouse,Electronics,7,24.99,0.00,Invoice,Completed,Ben Carter,
+ORD-10433,01/15/2026,Parker Young,parker.young20@example.com,436 758 4785,Bothell,WA,Desk Lamp,Furniture,3,36.95,0.10,Credit Card,COMPLETED,Marcus Green,Gift
+ORD-10700,"Jul 27, 2026",Jamie Young,jamie.young42@example.com,503-671-2609,Phoenix,AZ,Desk Lamp,Furniture,5,36.95,0.00,Debit Card,Shipped,Daniel Kim,Repeat customer
+ORD-10192,July 2 2026, Avery  Lewis ,avery.lewis53@example.com,480 541 7611, Redmond,Washington,27in Monitor,Electronics,2,$219.99,0.10,Invoice,Completed,Daniel Kim,
+ORD-10407,4/21/26,Cameron Williams,cameron.williams15@example.com,4434679450,Denver,CO,27in Monitor,Electronics,6,219.99,0.00,Debit Card,Completed,Olivia  Reed,Customer requested email update
+ORD-10268,6/1/26,Emerson Smith,emerson.smith75@example.com,270 542 8254,Phoenix,AZ,Water Bottle,Accessories,4,19.99,0.00,debit,Completed,Olivia Reed,Rush order
+ORD-10132,2026-05-25,Jamie Davis,jamie.davis3@example.com,(498) 884-2300,Portland, OR ,Ergonomic Chair,Furniture,3,$289.00,0.10,Debit Card,Completed,Daniel Kim,Gift
+ORD-10138,"Apr 04, 2026",Casey  Anderson,casey.anderson67@example.com,4529371118,,AZ,Backpack,Accessory,5,64.95,0.00,Credit Card,Completed,Maria Lopez,Repeat customer
+ORD-10178,June 7 2026,Cameron Anderson,cameron.anderson60@example.com,300-784-6957,Redmond,WA,Notebook Set,Office,7,12.99,,ACH,Sent,Maria Lopez,Call before delivery
+ ORD-10035 ,January 22 2026,Robin Garcia,robin.garcia2@example.com,2429806479,,Arizona,Water Bottle,Accessories,N/A,$19.99,0.00,PayPal,Shipped,MARIA LOPEZ,
+ORD-10086,"Jul 21, 2026",Taylor Clark,TAYLOR.CLARK26@EXAMPLE.COM,264 481 5356,San Francisco,CA,USB C Hub,Electronics,5,39.99,10%,Credit Card,Pending,Ben Carter,Repeat customer
+ORD-10358,03-13-2026,Cameron Allen,cameron.allen55@example.com,2482174646,San Francisco,ca,27 inch Monitor,Electronics,4,219.99,0.00,PayPal,Shipped,Ben Carter,Repeat customer
+ORD-10278,August 4 2026,Parker Jones,parker.jones86@example.com,4523513933,San Francisco,CA,Backpack,Accessories,8,64.95,0.00,PayPal,Pending,Marcus Green,
+ORD-10428,02/28/2026,Jordan Allen,jordan.allen86@example.com,4795752487,Bellevue,WA,Webcam,Electronics,6,54.99,0.00,PayPal,Completed,Maria Lopez,Repeat customer
+ORD-10466,2026-04-22,Robin Williams,robin.williams45@example.com,(438) 586-5166,Seattle,WA,Mechanical Keyboard,Electronics,1,74.99,0.05,ACH,Shipped,Daniel Kim,Deliver to front desk
+ORD-10665,May 15 2026,Sam Lewis,sam.lewis79@example.com,417 741 3360,Bothell,WA,Mechanical Keyboard,Electronics,4,74.99,0.00,Debit Card,COMPLETED,Marcus Green,
+ORD-10456,2026-05-05, Sam Harris ,sam.harris67@example.com,344-542-4152,Bellevue,WA,Cable Organizer,Accessories,2,9.99,0.00,Credit Card,Pending,Ben Carter,Repeat customer
+ORD-10075,2026-08-16,Emerson Miller,emerson.miller25@example.con,313-799-7329,Tacoma,WA,Backpack,Accessories,7, 64.95 ,0.05,Invoice,Pending, Priya Shah ,Rush order
+ORD-10078,"Feb 11, 2026",Robin Garcia,robin.garcia21@example.com,321 934 6686,Tacoma,Washington,27in Monitor,Electronics,1,$219.99,0%,Invoice,Completed,Daniel Kim,
+ORD-10100,February 5 2026,Parker  Smith,parker.smith98@example.com,4988745739,Tacoma,WA,Backpack,Accessories,5,64.95,0%,ACH,Shipped,MARCUS GREEN,
+ORD-10660,2026-05-03,Hayden Davis,hayden.davis46@example.com,,Kirkland,Washington,Webcam,electronics,4,54.99,N/A,Debit Card,Completed,Priya Shah,Repeat customer
+ord-10112,01/19/2026,Taylor Clark,taylor.clark26@example.com,264 481 5356,San Francisco,CA,Laptop Stand,office,6,44.99,0.00,Debit Card,Awaiting,Priya Shah,Rush order
+ORD-10275,"Jun 04, 2026",ROBIN JONES,robin.jones4@example.com,333.228.2396,KIRKLAND,WA,Stand-up Desk,Furn.,2,449.00,,Invoice,Completed,Ben Carter,
+ORD-10527,"Jul 11, 2026",Casey Anderson,casey.anderson67@example.com,452-937-1118,Phoenix,AZ,Noise Cancelling Headphones,Electronics,2,129.99,0.00,Paypal,Completed,Olivia Reed,Deliver to front desk
+ORD-10157,02/09/2026,Jordan Allen,jordan.allen86@example.com,(479) 575-2487,bellevue,WA,Mechanical Keyboard,Electronics,5,74.99,0.00,Invoice,Completed,DANIEL KIM,
+ORD-10555,August 26 2026,emerson brown,emerson.brown91@example.com,2989189882,Denver,CO,Backpack,Accessories,5,$64.95,0.10,Debit Card,Completed, Daniel Kim ,
+ORD-10313,"Aug 09, 2026", Kendall Harris ,kendall.harris72@example.com,488-629-7416,Tacoma,WA,NC Headphones,Electronics,8,129.99,,Credit Card,Done,Marcus  Green,Repeat customer
+ORD-10529,June 15 2026,Morgan Clark,morgan.clark50@example.com,423-607-1689,Bothell,WA,Webcam,Electronics,2,54.99,0.00,PayPal,complete,Olivia Reed,Gift
+ORD-10637,2026-02-28,Cameron Thomas,cameron.thomas92@example.com,4274364024,Portland,Oregon,Notebook Set,Office Supplies,3,12.99,5%,PayPal,SHIPPED,Priya Shah,
+ORD-10316,01/09/2026,Kendall Clark,kendall.clark77@example.con,2689164531,Portland, OR ,Noise-Cancelling Headphones,Electronics,5,129.99,0.00,PayPal,Pending,Ben Carter,Repeat customer
+ORD-10547,8/11/26,JAMIE YOUNG,jamie.young42@example.com,5036712609,Phoenix,AZ,Mechanical Keyboard,Electronics,1,$74.99,0.00,PayPal,Completed,Ben Carter,Rush order
+ORD-10406,06/28/2026,Robin Anderson,robin.anderson83@example.com,3866289091,Bothell,WA,Standing Desk,Furniture,7,$449.00,0.00,ACH,Awaiting,Daniel Kim,Customer requested email update
+ORD-10383,April 3 2026,Hayden Davis,hayden.davis46@example.com,,Kirkland,WA,27 inch Monitor,Electronics,1,219.99,0%,PayPal,COMPLETED,Daniel Kim,Customer requested email update
+ORD-10269,04/28/2026,Quinn Thomas,quinn.thomas25@example.com,391.958.5594,Redmond,WA,Water Bottle,Accessories,3,19.99,10%,Invoice,Completed,Marcus Green,Repeat customer
+ORD-10626,"Jul 24, 2026", Drew Smith ,drew.smith79@example.com,375 339 7404,seattle,WA,USB-C Hub,Electronics,5,39.99,0.00,Credit Card,Pending,Maria Lopez,Rush order
+ORD-10193,2026-05-04,Parker Williams,parker.williams91@example.com,424.917.6758,Redmond,wa,27in Monitor,Electronics,4,$219.99,N/A,PayPal,Pending,Ben Carter,Call before delivery
+ORD-10281,07-08-2026,Jamie Davis,jamie.davis3@example.com,498-884-2300,Portland,OR,wireless mouse,Electronics,1,24.99,0.10,PayPal,Completed,Daniel Kim,
+ ORD-10399 ,01/13/2026,Parker Jones,PARKER.JONES86@EXAMPLE.COM,452-351-3933,San Francisco,ca,Backpack,Accessories,3,64.95,0.00,Invoice,Completed, Ben Carter ,
+ORD-10159,January 9 2026,Hayden Davis,hayden.davis91@example.com,(236) 977-8460,San Francisco,CA,Mechanical Keyboard,Electronics,2,74.99,5%,ACH,Completed,Olivia Reed,
+ORD-10480,06-06-2026, Alex Allen ,alex.allen21@example.com,390-750-3697,Seattle,WA,Mechanical Keyboard,Electronics,8,74.99,0.10,Invoice,Completed,Olivia Reed,Gift
+ORD-10602,January 25 2026,Jamie Davis,jamie.davis3@example.com,498.884.2300,Portland,OR,USB-C Hub,Electronics,8,39.99,0.00,Debit Card,Refunded,Ben Carter,
+ORD-10667,2/11/26,Drew Johnson,drew.johnson40@example.com,(296) 960-6865,Phoenix,AZ,Laptop Stand,Office,2,44.99,5%,Credit Card,COMPLETED,Marcus Green,Call before delivery
+ORD-10669,05/10/2026,Riley Martinez,riley.martinez74@example.com,4517773549,Phoenix,AZ,Standing Desk,Furniture,4,449.00,0.05,Invoice,Shipped,Marcus Green,Rush order
+ORD-10028,01/02/2026,Cameron Williams,cameron.williams15@example.com,443.467.9450,Denver,CO,USB-C Hub,Elec.,6, 39.99 ,0.15,CC,Pending,BEN CARTER,Call before delivery
+ORD-10276,August 14 2026,Riley Garcia,riley.garcia64@example.com,(417) 850-5344,Seattle,WA,Backpack,accessories,3,64.95,0.00,Invoice,Completed,Olivia Reed,Deliver to front desk
+ORD-10553,2026-04-17,Hayden Davis,hayden.davis26@example.com,300-238-9156,portland,OR,Laptop Stand,Office,1,44.99,0.05,ACH,Completed,Marcus Green,
+ORD-10552,5/11/26,Cameron Thomas,cameron.thomas92@example.com,,Portland,OR,Backpack,Accessories,1, 64.95 ,0.00,Credit Card,Completed,Ben Carter,Rush order
+ORD-10324,4/8/26, Parker Anderson ,parker.anderson79@example.com,291-493-4498,Tacoma,WA,Desk Organizer,Office,6,$18.50,0.00,Debit Card,Pending,Maria Lopez,Rush order
+ORD-10474,January 6 2026,Kendall Rodriguez,kendall.rodriguez6@example.com,3968955067,Seattle,WA,Backpack,Accessories,2, 64.95 ,0.00,Credit Card,Completed,DANIEL KIM,Repeat customer
+ORD-10570,3/26/26,Parker Williams,parker.williams16@example.com,207.944.1012,Phoenix,AZ,Notebook Set,Office,7,12.99,0.10,PayPal,Cancelled,Olivia Reed,
+ORD-10104,01-10-2026,Quinn Thomas,quinn.thomas25@example.com,391-958-5594,Redmond,WA,Cable Organizer,Accessories,7,$9.99,0.00,ACH,Pending,BEN CARTER,Call before delivery
+ORD-10176,02-18-2026,Drew Allen,drew.allen33@example.com,427-615-1370,Renton,WA,Backpack,Accessories,1,64.95,0.05,Credit Card,Pending,Daniel Kim,Deliver to front desk
+ORD-10423,6/21/26,Kendall Harris,kendall.harris72@example.com,488.629.7416,TACOMA,WA,27in Monitor,Electronics,1,219.99,0.00,Invoice,Shipped,Daniel Kim,Gift
+ORD-10289,01/24/2026,Cameron Williams,cameron.williams15@example.com,443-467-9450,,CO,Wireless Mouse,Electronics,2,24.99,0.00,Credit Card,Completed,Maria Lopez,Call before delivery
+ORD-10230,01-17-2026,Cameron Allen,cameron.allen55@example.com,248.217.4646,San Francisco,CA,USB-C Hub,Electronics,8, 39.99 ,0.00,ACH,Shipped,Maria  Lopez,Customer requested email update
+ORD-10639,January 15 2026,Skyler Wilson,skyler.wilson84@example.com,415-360-2062,Renton,WA,Desk Lamp,,4,36.95,0.00,Debit Card,complete,Daniel Kim,
+ORD-10072,5/12/26,Skyler Allen,skyler.allen98@example.com,2765004158,renton,WA,Webcam,Electronic,8,54.99,0.00,invoice,Completed,maria lopez,Repeat customer
+ORD-10401,5/12/26,Parker Young,parker.young20@example.com,436.758.4785,Bothell,WA,USB-C Hub,ELECTRONICS,3,$39.99,0.10,Credit Card,Pending,PRIYA SHAH,Call before delivery
+ORD-10317,August 7 2026,Taylor Lewis,taylor.lewis85@example.com,222 231 8278,Phoenix,AZ,Mechanical Keyboard,Electronics,1,$74.99,5%,Debit Card,complete,Marcus Green,
+ ORD-10425 ,"Aug 15, 2026",Quinn Thomas,quinn.thomas25@example.com,3919585594,Redmond,WA,Standing Desk,Furniture,2,449.00,0.15,Debit,Completed,Olivia Reed,Call before delivery
+ORD-10002,"Jun 28, 2026",Riley Martinez,riley.martinez74@example.com,451-777-3549,Phoenix,Arizona,Noise Cancelling Headphones,Electronics,1,$129.99,0.05,PayPal,Pending,marcus green,
+ORD-10144,2026-06-05,Hayden Martinez,hayden.martinez52@example.com,2099378544,Bellevue,WA,Cable Organiser,Accessories,4,9.99,0.05,ACH,Completed,Ben Carter,
+ORD-10199,06-10-2026,Sam Lewis,,417 741 3360,Bothell,WA,Desk Lamp,Furniture,8,36.95,N/A,PayPal,COMPLETED,Maria Lopez,Gift
+ORD-10369,08/24/2026, Quinn Brown , quinn.brown80@example.com ,273-991-5467,Portland,OR,Water Bottle,Accessories,2, 19.99 ,0.15,ACH,Completed,Marcus Green,Rush order
+ORD-10468,07/04/2026,Jordan Lee,jordan.lee34@example.com,447-585-5327,Seattle,WA,"27"" Monitor",Electronics,3,219.99,0.05,PayPal,Awaiting,Olivia Reed,Repeat customer
+ORD-10618,01-25-2026,Avery Clark,avery.clark6@example.com,(505) 400-9478,Tacoma,wa,Mech Keyboard,Electronics,3,74.99,0.00,Invoice,Completed,marcus green,
+ORD-10430,8/12/26,robin garcia,robin.garcia2@example.com,(242) 980-6479, Phoenix,Arizona,Desk Organizer,Office,5,18.50,0.00,Debit Card,Completed,Marcus Green,Repeat customer
+ORD-10393,06/09/2026,Riley Garcia,riley.garcia64@example.com,417.850.5344,Seattle,WA,Cable Organizer,Accessories,5,9.99,0.00,Credit Card,Pending,Priya Shah,Rush order
+ORD-10061,June 5 2026,Cameron Rodriguez,cameron.rodriguez35@example.com,(307) 861-3752,bellevue,WA,Ergonomic Chair,Furniture,4,289.00,0.05,PayPal,Pending,daniel kim,Rush order
+ORD-10572,March 20 2026,Quinn Thomas,quinn.thomas25example.com,391-958-5594,Redmond,WA,Webcam,Electronics,7,$54.99,0.05,PayPal,Completed,Marcus Green,
+ ORD-10694 ,01-09-2026,Casey Rodriguez,casey.rodriguez42@example.com,289.672.7252,Kirkland,Washington,Cable Organizer,Accessories,3,9.99,0.00,ACH,Pending,MARIA LOPEZ,Repeat customer
+ORD10615,July 4 2026,Casey Anderson,casey.anderson67example.com,452-937-1118,Phoenix,AZ,Reusable Bottle,Accessory,4,19.99,0.00,ACH,Completed,Marcus Green,Repeat customer
+ORD-10478,June 10 2026,Avery Williams,avery.williams65@example.com,(502) 441-2205,Seattle,Washington,Wireless Mouse,ELECTRONICS,5,24.99,0.00,PayPal,Completed,Olivia Reed,Deliver to front desk
+ORD-10300,08-24-2026,riley young,riley.young41@example.com,479 429 2675,KIRKLAND,Washington,Notebook Set,Office,3,12.99,0%,Invoice,COMPLETED,Priya Shah,Call before delivery
+ORD-10143,2026-03-17,Riley Martinez,riley.martinez74@example.com,451 777 3549,Phoenix,AZ,Desk Lamp,Furniture,7,36.95,0.00,Credit Card,Awaiting,Olivia Reed,
+ORD-10405,March 11 2026,Quinn Smith,quinn.smith89@example.com,(439) 236-1226,Portland,OR,Water Bottle,Accessories,7,19.99,0.10,Bank Transfer,Completed,Marcus Green,
+ORD-10354,2026-04-09,Robin Harris,robin.harris63@example.com,2793759877,Kirkland,WA,Water Bottle,Accessories,7,19.99,0.00,Invoice,Completed,Ben Carter,
+ORD-10009,4/11/26,Taylor Lewis,taylor.lewis85@example.com,222.231.8278,Phoenix,AZ,27in Monitor,Electronics,3,219.99,0.20,Credit Card,Shipped, Maria Lopez ,
+ORD-10408,June 14 2026,Skyler Thomas,skyler.thomas74@example.com,(479) 630-2772,Bellevue,WA,USB-C Hub,Electronics,7,39.99,5%,Bank Transfer,Completed, Priya Shah ,Gift
+ORD-10014,"Aug 19, 2026",Quinn Martinez,quinn.martinez10@example.con,459.323.8565,Renton,Washington,Ergonomic Chair,Furniture,2,289.00,0.00,Debit Card,Completed,priya shah,
+ORD-10409,January 12 2026,Devin Martinez,devin.martinez7@example.com,(272) 455-7220, San Francisco,CA,USB-C Hub,Electronics,2,39.99,10%,Debit,Cancelled,MARCUS GREEN,
+ORD-10510,06/01/2026,Parker Martinez,parker.martinez69@example.com,213 784 2167,renton,WA,Laptop Stand,Office,1,$44.99,0%,ACH,Completed,Ben Carter,
+ORD-10554,03/12/2026, Reese Miller ,REESE.MILLER10@EXAMPLE.COM,(361) 630-6375,Redmond,WA,Wireless  Mouse,Electronics,8,24.99,0.00,Credit Card,Completed,Marcus Green,
+ORD-10534,2026-05-18,Quinn Garcia,quinn.garcia86@example.con,347.494.5615, San Francisco,CA,Water Bottle,Accessories,3,19.99,15%,PayPal,Pending, Olivia Reed ,
+ORD-10294,"Jul 19, 2026",Sam Lewis,sam.lewis72@example.com,(282) 730-8228,Denver,CO,Laptop Stand,Office,1,44.99,0.00,Bank Transfer,Completed,Daniel Kim,Repeat customer
+ORD-10279,"Jan 03, 2026",Cameron Allen,cameron.allen55@example.com,248-217-4646,San Francisco,CA,Mechanical Keyboard,Electronics,5,74.99,0.10,Debit Card,Completed,priya shah,Customer requested email update
+ORD-10180,07/23/2026,Skyler Lewis,skyler.lewis82@example.com,415 363 6036,Phoenix,AZ,Desk Lamp,Furniture,8,36.95,,ACH,Refunded,Priya Shah,
+ORD-10234,8/20/26,Emerson Smith,emerson.smith75@example.com,270-542-8254,Phoenix,AZ,Desk Organizer,Office,2,18.50,0%,PayPal,Completed,Marcus Green,Gift
+ORD-10331,"May 18, 2026",AVERY LEWIS,avery.lewis53@example.com,480.541.7611,Redmond,WA,Standing Desk,Furniture,8,449.00,0.00,ACH,Completed,Olivia Reed,Rush order
+ ORD-10440 ,7/14/26,CAMERON WILLIAMS,cameron.williams15@example.com,(443) 467-9450,Denver,CO,Desk Lamp,Furniture,1,36.95,0.15,INVOICE,Completed,Priya Shah,
+ORD-10400,04-24-2026,Parker Martinez,parker.martinez69@example.com,213-784-2167,Renton,WA,back pack,Accessories,1,64.95,0.05,ACH,Shipped,Ben Carter,Gift
+ORD-10295,07-09-2026,quinn thomas,quinn.thomas73@example.com,457-763-5744,EVERETT,WA,27in Monitor,ELECTRONICS,2,219.99,0.00,Credit Card,Awaiting, Ben Carter ,Repeat customer
+ORD-10488,07/28/2026,Kendall Harris,kendall.harris72@example.com,4886297416,Tacoma,WA,laptop stand,Office,4,44.99,,ACH,CANCELLED,Olivia Reed,Repeat customer
+ORD-10044,"Jan 07, 2026",Avery Williams,avery.williams65@example.com,5024412205,Seattle,WA,Desk Lamp,Furniture,1,36.95,N/A,PayPal,Completed,Priya Shah,
+ORD-10647,04/03/2026, Robin Garcia ,robin.garcia2@example.com,242 980 6479,Phoenix,Arizona,Standing Desk,Furniture,3,449.00,0.00,Credit Card,Cancelled,Ben Carter,Rush order
+ ORD-10119 ,8/24/26,Avery Lewis,avery.lewis53@example.com,(480) 541-7611,Redmond,WA,Webcam,Electronics,7,54.99,0.10,CC,Completed,Priya  Shah,Repeat customer
+ORD-10134,"May 13, 2026",Kendall Brown,kendall.brown87@example.com,3435518961,San Francisco,CA,Water Bottle,Accessories,8, 19.99 ,0.15,Invoice,Completed,Priya Shah,Deliver to front desk
+ORD-10467,"May 13, 2026",Riley Martinez,riley.martinez74@example.com,451-777-3549,Phoenix,AZ,Ergonomic Chair,Furniture,2,289.00,0.05,PayPal,Completed,Olivia Reed,
+ORD-10145,5/4/26,Skyler Allen,skyler.allen98@example.com,276-500-4158,Renton,WA,Cable Organizer,accessories,4,9.99,5%,PayPal,Completed,Olivia Reed,Rush order
+ORD-10195,2026-06-15, Emerson Smith ,emerson.smith75@example.com,270.542.8254,Phoenix,AZ,Cable Organizer,Accessories,2,9.99,0.00,Credit Card,Completed,olivia reed,
+ORD-10107,02-25-2026,Emerson Miller,emerson.miller25@example.com,,Tacoma,WA,Desk Lamp,Furniture,7,36.95,0.10,PayPal,Completed, Daniel Kim ,Rush order
+ORD-10452,2026-07-07,Jamie Brown,jamie.brown17@example.com,(251) 808-3676,Everett ,WA,Webcam,Electronics,1,54.99,0.10,Invoice,Shipped,Priya Shah,
+ORD-10599,05/15/2026,Emerson Williams,emerson.williams7@example.com,262 499 6563,Portland,OR,Laptop Stand,Office,4,44.99,0.05,Invoice,Pending,Ben Carter,Customer requested email update
+ORD-10034,04-19-2026,Taylor Lewis,taylor.lewis26example.com,322.648.3752,Redmond,WA,Desk Lamp,Furniture,8,36.95,0.00,PayPal,Shipped,Ben Carter,Rush order
+ORD-10371,"Jun 17, 2026",Parker Anderson,parker.anderson79@example.com,291 493 4498,Tacoma,WA,Backpack,Accessories,3,64.95,0.00,ACH,Pending,Olivia Reed,
+ORD-10664,04/15/2026,Hayden Davis,hayden.davis26@example.com,300-238-9156,Portland ,OR,Notebook Set,Office,8,12.99,0.00,ACH,Completed,Olivia Reed,Rush order
+ORD-10004,06/26/2026,Hayden Martinez,hayden.martinez16@example.com,(489) 278-5593,Seattle,WA,Noise Cancelling Headphones,Elec.,2,129.99,,Invoice,Cancelled,Marcus Green,Call before delivery
+ORD-10518,04-01-2026,Kendall Clark,kendall.clark77@example.com,268 916 4531,Portland,OR,USB-C Hub,Electronics,6,39.99,,Credit Card,Completed,Olivia Reed,
+ORD-10338,2/16/26,Casey Davis,casey.davis98@example.com,3152763551,Seattle,Washington,Mechanical Keyboard,Electronics,4,74.99,0.10,ACH,Pending,Olivia Reed,Gift
+ORD10398,5/15/26,ALEX ALLEN,alex.allen21@example.com,390-750-3697,Seattle,WA,Webcam,Electronics,4,54.99,0.10,PayPal,Done,Priya Shah,Rush order
+ORD-10069,3/30/26,Jordan Lewis,jordan.lewis74@example.com,259.533.6902,Bellevue,wa,Desk  Lamp,Furniture,3,36.95,0.00,Invoice,Pending,Maria Lopez,
+ORD-10671,2026-03-05,Quinn Martinez,quinn.martinez10@example.com,(459) 323-8565,Renton,WA,USB-C Hub,Electronics,5,39.99,0.05,Invoice,Pending,Marcus Green,Deliver to front desk
+ORD-10172,"May 31, 2026",Hayden  Martinez,hayden.martinez16@example.com,4892785593,Seattle,WA,Wireless Mouse,Electronics,7,24.99,0.05,Invoice,Pending,Olivia Reed,Gift
+ORD-10394,June 4 2026,Casey Williams,casey.williams9@example.com,(314) 524-8992, Kirkland,WA,USB-C Hub,ELECTRONICS,3, 39.99 ,0.15,PayPal,Completed,Maria Lopez,Deliver to front desk
+ORD-10484,05/23/2026,Parker Martinez,parker.martinez69@example.com,213-784-2167,Renton,WA,Laptop Stand,Office,5,44.99,0.15,ACH,Pending,Priya Shah,
+ORD-10237,2026-02-16,Devin Brown,devin.brown87@example.com,237.482.8499,Denver,CO,Wireless Mouse,Electronics,7,24.99,0%,Invoice,COMPLETED, Priya Shah ,Repeat customer
+ORD-10614,2026-07-07,alex jones, alex.jones98@example.com ,,Tacoma,WA,Water Bottle,ACCESSORIES,7,19.99,,Credit Card,Shipped,priya shah,Rush order
+ORD-10473,01/15/2026,Jamie Jones,jamie.jones70@example.com,314 676 2433,Bellevue,WA,Webcam,Electronics,3,$54.99,0.10,Debit Card,Completed,ben carter,
+ORD-10245,2026-01-27,Morgan Davis,morgan.davis16@example.com,3385028222,Renton,WA,Water Bottle,accessories,4,19.99,N/A,PayPal,Pending,Olivia Reed,
+ORD-10539,5/13/26,avery clark,avery.clark4@example.com,(414) 471-6859,SAN FRANCISCO,CA,Laptop Stand,Office,3,44.99,5%,PayPal,Shipped,Priya Shah,Rush order
+ORD-10413,4/23/26,Devin Brown,devin.brown87@example.com,(237) 482-8499,DENVER,CO,Webcam,Electronics,4,54.99,0.05,Debit Card,Refunded,Priya Shah,
+ORD-10640,June 30 2026,Drew Brown,drew.brown25@example.com,4809548795,Everett,WA,Wireless Mouse,Electronics,5,24.99,0.15,Credit Card,Shipped,Priya Shah,
+ORD-10015,"Jul 08, 2026",Quinn Thomas,quinn.thomas25@example.com,391.958.5594,REDMOND,WA,Cable Organizer,Accessories,5,$9.99,0%,PayPal,Awaiting, Priya Shah ,Deliver to front desk
+ORD-10391,"Jan 24, 2026",Avery Clark,avery.clark4@example.com,4144716859, San Francisco,CA,Mechanical Keyboard,Electronics,8,74.99,0.00,Debit Card,Completed,Marcus Green,
+ORD-10549,6/26/26,Emerson Jones,emerson.jones69@example.com,,BELLEVUE,WA,Notebook Set,Office,3,12.99,0.00,Debit Card,complete,Marcus Green,
+ORD-10609,8/4/26,Hayden Martinez,hayden.martinez52@example.com,209-937-8544,Bellevue,WA,USB-C Hub,Electronics,8,$39.99,0.00,PayPal,Completed,Priya Shah,Customer requested email update
+ORD-10603,2026-03-03,Quinn Lee,quinn.lee57@example.com,3684572050,BELLEVUE,WA,USB-C Hub,Electronics,4,39.99,15%,PayPal,Completed,Daniel Kim,
+ORD-10627,2026-06-08,Drew Brown,,480-954-8795,everett,Washington,Water Bottle,accessories,4,$19.99,10%,Credit Card,Shipped, Olivia Reed ,
+ORD-10013,4/30/26,Morgan Davis,morgan.davis16@example.com,(338) 502-8222,Renton,WA,Desk Organizer,Office Supplies,3,18.50,0.00,Invoice,Shipped,Olivia Reed,Rush order
+ORD-10408,June 14 2026,Skyler Thomas,skyler.thomas74@example.com,(479) 630-2772,Bellevue,WA,USB-C Hub,Electronics,7,39.99,5%,Bank Transfer,Completed, Priya Shah ,Gift
+ORD10670,02/21/2026,Parker Lewis,parker.lewis19@example.com,(439) 659-2520,Everett,WA,Notebook Set,Office Supplies,8, 12.99 ,,Invoice,Completed,Maria Lopez,
+ORD-10156,07/14/2026,Avery Clark,avery.clark4@example.com,414-471-6859,San Francisco,CA,Water Bottle,Accessories,2,$19.99,N/A,PayPal,Pending,Priya Shah,
+ORD-10049,May 10 2026,Devin Brown,devin.brown87@example.com,237-482-8499,Denver,CO,Desk Lamp,Furniture,2,36.95,0.10,Credit Card,Completed,Ben Carter,Call before delivery
+ORD-10150,4/24/26,Jamie Young,jamie.young42@example.com,503-671-2609,Phoenix,Arizona,Ergonomic Chair,furniture,4,289.00,5%,Debit Card,Pending,,Call before delivery
+ORD10079,08-03-2026,Robin Young,robin.young50@example.com,255.419.1353,Bellevue,WA,Desk Organizer,Office,3,18.50,0.00,Invoice,Pending,Marcus Green,Gift
+ORD-10589,02/15/2026, Casey Smith ,casey.smith32@example.con,489.234.7594,Bothell,WA,Laptop Stand,Office,4, 44.99 ,0.00,Invoice,Completed,Daniel Kim,
+ORD-10036,3/24/26,Jamie Davis,jamie.davis3@example.com,(498) 884-2300, Portland,OR,Mechanical Keyboard,Electronics,7,74.99,,ACH,complete,DANIEL KIM,
+ORD-10162,04/02/2026,Drew Brown,drew.brown25@example.com,4809548795,Everett,WA,Noise Cancelling Headphones,electronics,4, 129.99 ,0.00,Debit Card,SHIPPED,Olivia Reed,Repeat customer
+ORD-10039,5/31/26,Devin Young,devin.young2@example.com,290-418-3059,Kirkland,Washington,27in Monitor,Electronics,2,219.99,,Debit Card,Completed,Olivia Reed,Repeat customer
+ORD-10094,08-01-2026,Alex Jones,alex.jones98@example.com,,Tacoma,wa,Standing Desk,Furniture,6,449.00,0.00,Credit Card,Pending,BEN CARTER,Rush order
+ORD-10595,06/01/2026,Riley Smith,riley.smith11@example.com,(462) 443-3586,KIRKLAND,Washington,Ergonomic Chair,Furniture,4,289.00,0.05,invoice,Done,Maria Lopez,Customer requested email update
+ORD-10198,"May 19, 2026", Morgan Martinez ,morgan.martinez83@example.com,3408848175,Bothell,WA,Backpack,Accessories,2,64.95,0.15,ACH,Done,ben carter,
+ORD-10519,04-13-2026,Kendall Clark,kendall.clark77@example.com,(268) 916-4531,Portland,OR,Desk Lamp,Furniture,4,36.95,0.05,PayPal,Completed,Marcus Green,
+ORD-10043,5/20/26,Taylor Clark,taylor.clark26@example.com,2644815356,San Francisco,CA,Mechanical Keyboard,Elec.,1,74.99,0.00,ACH,Completed, Marcus Green ,Rush order
+ORD-10140,03-05-2026,Cameron Allen,cameron.allen55@example.com,248-217-4646,san francisco,CA,Cable Organizer,Accessories,3,9.99,0.00,ACH,Cancelled,Maria Lopez,Gift
+ ORD-10305 ,3/15/26,Taylor Lewis,taylor.lewis26@example.com,3226483752,Redmond,WA,Noise Cancelling Headphones,Electronics,2,129.99,,Credit Card,Completed, Ben Carter ,
+ORD-10098,2026-02-22,Taylor Lee,taylor.lee82@example.com,2502878882,Denver,CO,Cable Organizer,Acc.,3,$9.99,10%,Debit Card,Done,Ben Carter,Rush order
+ORD-10684,June 3 2026, Emerson Williams ,emerson.williams7@example.com,262 499 6563,Portland,OR,Mechanical Keyboard,Electronics,1,74.99,0.10,ACH,Completed,Ben Carter,Repeat customer
+ORD-10581,05/07/2026,Parker Martinez,parker.martinez69@example.com,,Renton,WA,Noise Cancelling Headphones,ELECTRONICS,8,129.99,0.20,Bank Transfer,Shipped,Daniel Kim,Deliver to front desk
+ORD-10025,01/10/2026,Parker Anderson,parker.anderson79@example.com,2914934498, Tacoma,WA,Water Bottle,Accessories,7,19.99,0.00,ACH,Completed,PRIYA SHAH,Customer requested email update
+ORD-10283,2026-01-25,Skyler Allen,skyler.allen18@example.com,292 730 8507,Redmond,Washington,Laptop Stand,Office,7,44.99,0.00,Invoice,complete,Priya Shah,
+ORD-10122,April 18 2026,Devin Martinez,devin.martinez7@example.com,(272) 455-7220,San Francisco,CA,27in Monitor,Electronics,3,219.99,0.00,Invoice,Cancelled,Daniel Kim,
+ORD-10525,"Apr 18, 2026",Drew Johnson,drew.johnson40@example.com,296-960-6865, Phoenix,Arizona,Laptop Stand,office,1,44.99,0.05,PayPal,Shipped,Marcus Green,Call before delivery
+ORD-10537,2/12/26,Casey Rodriguez,casey.rodriguez42@example.com,(289) 672-7252,Kirkland,WA,Laptop Stand,Office,7,44.99,0.05,PayPal,Completed,Olivia Reed,Gift
+ORD-10169,August 10 2026,Alex Miller,alex.miller18@example.com,326.567.8287,KIRKLAND,Washington,Mechanical Keyboard,Electronics,8,74.99,0.00,PayPal,Completed,Olivia Reed,Gift
+ORD-10202,01/11/2026,Cameron Rodriguez,cameron.rodriguez35@example.com,(307) 861-3752,Bellevue,WA,Cable Organizer,Accessory,8,9.99,0.10,CC,Pending,Ben Carter,
+ORD-10018,February 28 2026,Devin Young,devin.young2@example.com,2904183059,Kirkland,Washington,Noise Cancelling Headphones,Electronics,1,129.99,0.00,Credit Card,Shipped,Marcus Green,
+ORD-10282,"Mar 04, 2026",Avery Allen,avery.allen48@example.com,472-268-1080,RENTON,WA,water bottle,Accessories,7,19.99,15%,Invoice,Completed,Maria Lopez,Rush order
+ORD-10102,January 31 2026,Parker Jones,parker.jones86@example.com,452-351-3933,san francisco,CA,Desk Lamp,Furniture,,36.95,0.00,PAYPAL,Cancelled,Maria Lopez,Deliver to front desk
+ORD-10090,2026-02-12,Drew Johnson,drew.johnson40@example.com,2969606865,Phoenix,AZ,BACKPACK,Accessories,2,$64.95,0.00,Invoice,Cancelled,Ben Carter,
+ORD-10267,6/6/26,Robin Anderson,robin.anderson83@example.com,(386) 628-9091,Bothell,WA,Water Bottle,Accessories,7,19.99,N/A,PayPal,Completed,Marcus  Green,Call before delivery
+ORD-10517,2026-02-09,Devin Brown,devin.brown87@example.com,237.482.8499,DENVER,CO,Laptop Stand,Office,6,44.99,0.00,PayPal,Completed,Maria Lopez,Rush order
+ ORD-10239 ,"Jan 27, 2026",HAYDEN DAVIS,hayden.davis26@example.com,300 238 9156,Portland,OR,Noise Cancelling Headphones,Electronics,8,129.99,0.00,ACH,CANCELLED,Maria Lopez,Rush order
+ORD-10485,08/08/2026,EMERSON YOUNG,emerson.young46@example.com,354-703-5120,Portland,OR,Water Bottle,Accessory,8,$19.99,0.15,Invoice,Completed,Ben Carter,
+ORD-10118,2026-04-11,Drew Lewis,drew.lewis89@example.com,236.791.2856,Bellevue,WA,Laptop Stand,Office,1,44.99,0.10,PayPal,Completed,Priya Shah,Customer requested email update
+ORD-10388,2026-02-07, Drew Brown ,drew.brown25@example.com,480-954-8795,Everett,WA,Laptop Stand,office,3,44.99,0%,Debit Card,Completed, Priya Shah ,Call before delivery
+ORD-10366,4/20/26, Hayden Davis ,hayden.davis26@example.com,300-238-9156,Portland,OR,27in Monitor,Electronics,7,219.99,,Credit Card,COMPLETED,Priya  Shah,Call before delivery
+ord-10396,2/8/26,Robin Garcia,robin.garcia2@example.com,242.980.6479,phoenix,AZ,Ergonomic Chair,Furniture,2,289.00,0.00,Bank Transfer,Awaiting, Priya Shah ,
+ORD-10389,2026-05-18,Hayden Davis,hayden.davis91@example.com,236-977-8460,San Francisco,CA,ergonomic chair,Furn.,8,289.00,0.05,PayPal,Completed,Priya Shah,
+ORD-10336,01/06/2026,SAM LEWIS,sam.lewis72@example.com,282 730 8228,Denver,CO,Desk Lamp,Furniture,1,$36.95,0.05,PayPal,Completed,Maria Lopez,Gift
+ORD-10033,5/28/26, Avery Clark ,avery.clark6@example.com,505-400-9478,TACOMA,WA,Notebook set,Office,1,12.99,0.20,INVOICE,Completed,Marcus Green,Gift
+ORD-10054,07/07/2026,Cameron Lewis,cameron.lewis4@example.com,442-959-8212,TACOMA,WA,Noise Cancelling Headphones,Electronics,5,129.99,0.00,debit,Refunded,Olivia Reed,Customer requested email update
+ORD-10610,"Jan 26, 2026",skyler allen,skyler.allen18@example.com,292 730 8507,REDMOND,Washington,Water Bottle,Accessories,2,19.99,0.00,PayPal,Completed,Marcus Green,Call before delivery
+ORD-10291,August 8 2026,cameron wilson,cameron.wilson63@example.com,270-817-7736,Portland,OR,Desk Lamp,Furniture,2,36.95,0.05,Credit Card,Pending,Olivia Reed,Rush order
+ORD-10264,"Feb 04, 2026",Quinn Lee,quinn.lee57@example.com,368-457-2050,Bellevue,WA,Desk Lamp,Furniture,1,36.95,0.15,Debit Card,cancelled,Olivia Reed,Gift
+ORD-10620,06/21/2026,Skyler Lewis,skyler.lewis82@example.com,,Phoenix,AZ,WIRELESS MOUSE,ELECTRONICS,5,24.99,0.15,PayPal,Completed,Marcus  Green,
+ORD-10070,2026-06-01,Avery Martinez,avery.martinez57@example.com,,SAN FRANCISCO,ca,WIRELESS MOUSE,Electronics,2,24.99,0.10,invoice,Pending,Ben Carter,
+ORD-10170,7/8/26,Reese Miller,reese.miller10@example.com,,Redmond ,WA,Cable Organizer,Accessories,2,$9.99,0.00,Debit,Pending,Marcus Green,Repeat customer
+ORD-10351,06-20-2026,Cameron Lewis, cameron.lewis4@example.com ,442 959 8212,Tacoma,WA,Webcam,Electronics,7,54.99,0.10,invoice,Completed,Ben Carter,Repeat customer
+ORD-10210,01-16-2026,DREW WILSON,drew.wilson39@example.com,5007329821,Bothell,WA,ergonomic chair,FURNITURE,8,289.00,0.00,ACH,Completed,Olivia Reed,Rush order
+ORD-10057,06-18-2026,Casey Young,,289 701 6418,Everett,WA,Mechanical Keyboard,Electronics,5,74.99,0.20,Credit Card,Completed,Priya Shah,Deliver to front desk
+ORD-10508,7/6/26,Emerson Thomas,emerson.thomas30@example.com,338-409-8326,Renton,Washington,Cable Organizer,Accessories,3,9.99,0.15,Invoice,Pending,Daniel Kim,Rush order
+ORD-10182,03/23/2026,Skyler Brown,skyler.brown73@example.com,395 971 3990,Tacoma ,WA,Ergo Chair,Furniture,7, 289.00 ,0.00,Credit Card,Cancelled,olivia reed,
+ORD-10051,04/14/2026,Robin Young,robin.young50@example.com,255-419-1353,BELLEVUE,WA,Webcam,Electronics,5,54.99,,Invoice,Cancelled,Olivia Reed,Customer requested email update
+ORD-10250,June 12 2026,jamie clark,jamie.clark43@example.com,(353) 278-1946,Bothell,WA,Cable Organizer,Accessories,6,9.99,0.10,Debit Card,complete,Olivia Reed,
+ORD-10232,July 30 2026,Kendall Anderson,,501.556.4508,Bothell,WA,Backpack,Accessories,8,64.95,0.00,Credit Card,Shipped,Ben Carter,
+ORD-10656,08-18-2026,Hayden Martinez,hayden.martinez52@example.com,209.937.8544,Bellevue,WA,Ergonomic Chair,Furniture,8,289.00,0%,INVOICE,Completed,Priya Shah,
+ORD-10155,02/24/2026,Sam Harris,sam.harris67@example.com,344.542.4152,Bellevue,WA,Backpack,Accessories,2,64.95,5%,Debit Card,Pending,Maria Lopez,
+ORD-10071,7/12/26,Cameron  Rodriguez,cameron.rodriguez35@example.com,(307) 861-3752,Bellevue,WA,BACKPACK,accessories,1,64.95,0.00,ACH,Completed,Daniel Kim,Gift
+ ORD-10007 ,April 2 2026,Sam Clark,sam.clark32@example.com,419.723.3006,Redmond,wa,Mechanical Keyboard,Electronics,1,74.99,0.20,PayPal,Completed,Marcus Green,Rush order
+ORD-10242,February 2 2026,Robin Garcia,robin.garcia21@example.com,(321) 934-6686,Tacoma,WA,Backpack,Accessories,1,64.95,0.00,PayPal,complete,Ben Carter,
+ORD-10171,2026-05-18,Kendall Clark,kendall.clark22@example.com,(388) 955-7890,Bothell,WA,Wireless Mouse,Electronics,4,24.99,15%,Invoice,Cancelled,Priya Shah,
+ORD-10105,01-28-2026,Casey Smith,casey.smith32@example.con,(489) 234-7594,Bothell,WA,Backpack,Acc.,5,64.95,0.15,Debit Card,Pending,MARCUS GREEN,Customer requested email update
+ORD-10280,08-28-2026,Jordan Lewis,jordan.lewis74@example.com,259.533.6902,Bellevue,WA,Ergonomic Chair,furniture,4,289.00,0.05,Credit Card,Completed,Ben Carter,Rush order
+ORD-10271,January 30 2026,Avery Clark,avery.clark6@example.com,,Tacoma,WA,Noise Cancelling Headphones,Electronics,,129.99,0%,Credit Card,Completed,Priya Shah,Gift
+ ORD-10222 ,07/19/2026,Cameron  Garcia,cameron.garcia22@example.com,239-633-4369,Bothell,WA,Desk Organizer,Office,5,18.50,0.00,ACH,Awaiting,Ben Carter,
+ORD10497,2026-05-22,Parker Lewis,parker.lewis19@example.com,439.659.2520,Everett,WA,Mechanical Keyboard,Electronics,6,74.99,0.10,Invoice,Pending,DANIEL KIM,Rush order
+ORD-10224,January 11 2026,QUINN ALLEN,quinn.allen97@example.com,(349) 557-3824,Kirkland,WA,Wireless Mouse,Electronics,2,$24.99,0.00,ACH,Shipped,Ben Carter,Deliver to front desk
+ORD-10556,4/24/26,Emerson Jones,emerson.jones3@example.com,438 404 3110,Tacoma,WA,desk lamp,Furn.,7,36.95,0.20,Credit Card,Shipped,MARIA LOPEZ,
+ORD-10123,4/3/26,Morgan Miller,morgan.miller38@example.com,3168216454,Portland, OR ,Cable Organizer,Accessories,7,9.99,0.00,PayPal,Completed,Olivia Reed,
+ORD-10444,April 9 2026,Quinn Garcia,quinn.garcia86@example.com,3474945615,San Francisco,CA,Notebook Set,Office,8,12.99,0.10,Credit Card,Completed,Marcus Green,Customer requested email update
+ORD-10410,8/24/26,Robin Johnson,robin.johnson66@example.com,341-242-4324,Denver,co,Laptop Stand,Office,3,44.99,0%,Invoice,Shipped,Maria Lopez,Rush order
+ORD-10675,"May 30, 2026",QUINN BROWN,,273.991.5467,PORTLAND, OR ,Noise Cancelling Headphones,Electronics,1, 129.99 ,0.00,ACH,Pending,Marcus Green,
+ORD-10257,June 22 2026,Parker Williams,parker.williams28@example.com,,Seattle,WA,usb-c hub,electronics,7,39.99,0.00,PayPal,Completed,Maria Lopez,Deliver to front desk
+ORD-10204,September 1 2026,Riley Garcia,riley.garcia64@example.com,417 850 5344,Seattle,WA,Standing Desk,Furniture,4, 449.00 ,0.00,PayPal,Shipped,Daniel Kim,Call before delivery
+ORD-10346,03-30-2026,Skyler  Miller,skyler.miller67@example.com,433-298-2872,Portland,OR,27in Monitor,Electronics,1,219.99,0.00,ACH,Pending,Daniel Kim,
+ORD-10012,April 15 2026,Emerson Williams, emerson.williams7@example.com ,2624996563,Portland,OR,Wireless Mouse,Electronics,7,24.99,15%,Credit Card,Completed,Olivia Reed,Deliver to front desk
+ORD-10643,"May 30, 2026",jordan allen,jordan.allen86@example.com,479-575-2487,Bellevue,WA,Water Bottle,Accessories,7,19.99,0.00,Credit Card,Completed,,Deliver to front desk
+ORD-10578,2026-08-03,Quinn Garcia,quinn.garcia86@example.com,347-494-5615,San Francisco,CA,Desk Organizer,OFFICE,8,18.50,0.10,PayPal,Shipped, Priya Shah ,
+ORD-10624,"Jun 17, 2026",CAMERON WILSON,cameron.wilson63@example.com,270 817 7736,Portland,OR,USB-C Hub,Electronics,6,39.99,0%,PayPal,Completed,Maria Lopez,Deliver to front desk
+ORD-10648,2026-04-11,Cameron Rodriguez,cameron.rodriguez35@example.com,307-861-3752,,WA,27in Monitor,Electronic,4,219.99,10%,Invoice,pending,Daniel Kim,Call before delivery
+ORD-10255,06/27/2026,Robin Williams,robin.williams45@example.com,(438) 586-5166,Seattle,Washington,USB-C Hub,Electronics,6,39.99,0.00,Credit Card,Shipped,MARCUS GREEN,
+ORD-10166,02-19-2026,Morgan Davis,morgan.davis16@example.com,338-502-8222,Renton,WA,Desk Lamp,Furniture,5,36.95,0%,Debit,Completed,Daniel Kim,Call before delivery
+ORD-10402,6/14/26,Alex Smith,alex.smith11@example.com,260-517-4429,Renton ,WA,Ergonomic Chair,FURNITURE,6,289.00,0.00,ACH,Completed,Daniel Kim,
+ORD-10023,1/12/26,Jordan Lee,jordan.lee34@example.com,447 585 5327,Seattle,WA,Noise Cancelling Headphones,Electronics,1,129.99,,Credit Card,Shipped,Daniel Kim,Repeat customer
+ORD-10149,8/24/26,Drew Lewis,drew.lewis89@example.com,236.791.2856, Bellevue,WA,Desk Organizer,OFFICE,1,18.50,N/A,PAYPAL,Completed,PRIYA SHAH,Repeat customer
+ORD-10498,2026-03-16,Reese Johnson, reese.johnson53@example.com ,228 852 4519,san francisco,CA,Webcam,Electronics,4,54.99,0.00,PayPal,Completed,Olivia Reed,Call before delivery
+ORD-10027,2026-01-05,Emerson Rodriguez,emerson.rodriguez51@example.com,448-725-6594,Renton,WA,Cable Organizer,accessories,4,$9.99,0.00,Credit Card,Completed,Daniel Kim,
+ORD-10213,08/18/2026,Quinn Smith,quinn.smith89@example.com,439-236-1226,Portland,OR,Water Bottle,Accessories,2,19.99,0.00,Debit,Completed,Ben Carter,Rush order
+ORD-10196,6/10/26,Jamie Brown,,(251) 808-3676,Everett,WA,Laptop Stand,Office,2,44.99,10%,Credit Card,Completed,Olivia Reed,Rush order
+ORD-10576,2026-01-31, CASEY SMITH ,casey.smith32@example.com,489 234 7594,Bothell,WA,Mechanical Keyboard,Electronics,6, 74.99 ,0.15,Debit Card,complete,Daniel Kim,
+ORD-10567,2026-04-10,Quinn Thomas,quinn.thomas25@example.com,391.958.5594,Redmond,WA,Desk Lamp,Furniture,4,36.95,0.00,ACH,Pending,ben carter,
+ORD-10645,August 16 2026,quinn lee,quinn.lee57@example.com,368-457-2050,Bellevue,WA,Standing Desk,Furniture,2,449.00,0.05,Debit Card,Completed,Olivia Reed,Gift
+ORD-10120,"Apr 01, 2026",Taylor Lewis,,322 648 3752,Redmond,WA,Ergonomic Chair,Furniture,1,289.00,0.00,PAYPAL,Completed,PRIYA SHAH,Deliver to front desk
+ORD-10211,1/8/26,PARKER JONES,parker.jones86@example.con,4523513933, San Francisco,CA,Backpack,Accessories,4,$64.95,N/A,Invoice,Completed,Ben Carter,Deliver to front desk
+ORD-10253,"Jun 13, 2026",Riley Garcia,riley.garcia64@example.con,417-850-5344,SEATTLE,WA,Backpack,Accessories,5,64.95,0.00,Credit Card,Completed,Olivia Reed,
+ORD-10454,1/16/26,Robin Anderson,robin.anderson83@example.com,386.628.9091,BOTHELL,Washington,Notebook Set,,4,12.99,0.00,PayPal,complete, Priya Shah ,Deliver to front desk
+ORD-10685,07/18/2026,Quinn Lee,quinn.lee57@example.com,368.457.2050,Bellevue,WA,Notebook Set,Office Supplies,7,12.99,0.10,Invoice,Completed,PRIYA SHAH,Customer requested email update
+ORD-10562,February 22 2026,Drew Allen,drew.allen33@example.com,4276151370,Renton,WA,27 inch Monitor,Electronics,3,219.99,15%,Paypal,Shipped,Priya Shah,Customer requested email update
+ORD-10530,July 8 2026,Reese Johnson,,(228) 852-4519,SAN FRANCISCO,ca,USB-C Hub,Electronics,7,39.99,0.00,ACH,Completed,Maria Lopez,Repeat customer
+ORD-10512,04/15/2026,Taylor  Lee,taylor.lee71@example.con,3426968331,SAN FRANCISCO,California,Ergonomic Chair,Furniture,8,289.00,0%,Credit Card,Completed,daniel kim,Deliver to front desk
+ORD-10109,2026-06-26, Riley Young ,riley.young41@example.com,(479) 429-2675,Kirkland,wa,Desk Organizer,Office,1,$18.50,0.00,Debit Card,Completed,Olivia Reed,Customer requested email update
+ORD-10380,August 12 2026,Cameron Smith,cameron.smith15@example.com,364.720.1120,Denver,CO,Wireless Mouse,Electronics,8,24.99,0.05,Credit Card,Completed,MARCUS GREEN,Repeat customer
+ORD-10477,3/2/26, Emerson Thomas ,emerson.thomas30@example.com,3384098326,Renton,WA,Water Bottle,Accessories,6,$19.99,0.00,INVOICE,Completed,olivia reed,
+ORD-10185,07/02/2026,Parker Smith,parker.smith98@example.com,(498) 874-5739,Tacoma,WA,27in Monitor,Electronics,8,219.99,0.00,Invoice,Refunded,Maria Lopez,Deliver to front desk
+ORD-10249,03/18/2026,Quinn Harris,quinn.harris66example.com,,Tacoma,WA,Desk Lamp,Furn.,4,36.95,0.10,PayPal,Shipped,Maria Lopez,Call before delivery
+ORD-10435,"Jun 11, 2026",Casey Young,casey.young58@example.com,(289) 701-6418,Everett ,WA,USB-C Hub,Electronics,4,39.99,0.00,ACH,Completed,Daniel  Kim,
+ORD-10367,05/11/2026,Cameron Garcia,cameron.garcia22@example.com,239-633-4369,Bothell,WA,Standing Desk,Furniture,2,449.00,0.05,Credit Card,Completed,Ben Carter,Customer requested email update
+ORD-10021,8/11/26,Robin Anderson,robin.anderson83@example.com,(386) 628-9091, Bothell,wa,Standing Desk,Furniture,2,449.00,0.00,Debit Card,Shipped, Ben Carter ,
+ORD-10496,"Jul 04, 2026",Emerson Jones,emerson.jones69@example.com,(355) 747-2811,Bellevue,WA,Webcam,Electronics,6,54.99,0.00,CC,Completed,Priya Shah,Deliver to front desk
+ord-10521,July 25 2026,Drew Wilson,drew.wilson39@example.com,500 732 9821,Bothell,WA,Laptop Stand,Office,N/A,44.99,0.00,Invoice,Completed,Olivia Reed,Rush order
+ORD-10403,February 17 2026,Emerson Jones,emerson.jones69@example.com,355-747-2811,Bellevue,WA,Laptop Stand,office,6,44.99,0.00,ACH,Shipped,Ben Carter,Call before delivery
+ORD-10511,May 20 2026,RILEY MARTINEZ,riley.martinez74@example.com,4517773549,Phoenix,AZ,Standing Desk,Furniture,7,449.00,0.00,Bank Transfer,Refunded,MARCUS GREEN,Repeat customer
+ORD-10646,2026-08-05,Jordan Allen,jordan.allen99@example.com,338-665-3668,Phoenix ,AZ,Ergonomic Chair,Furniture,7,289.00,0.05,Debit Card,Completed,Marcus Green,
+ORD-10681,02-02-2026,Quinn Smith,quinn.smith89@example.com,439.236.1226,Portland,OR,Webcam,Electronics,8, 54.99 ,0.00,PayPal,Cancelled,Maria Lopez,
+ORD-10133,January 14 2026,Quinn Thomas,quinn.thomas73@example.com,,Everett,WA,Laptop Stand,Office,6,44.99,0.00,ACH,Shipped,Olivia Reed,
+ORD-10058,January 8 2026,Emerson Allen,emerson.allen62@example.com,496-517-4262, Bothell,WA,Ergonomic Chair,Furniture,6,289.00,,PayPal,Completed,daniel kim,Repeat customer
+ORD-10113,March 21 2026,Drew Lewis,drew.lewis89@example.com,2367912856,bellevue,WA,Notebook Set,,6,12.99,0.00,Debit Card,Completed,Maria Lopez,Repeat customer
+ORD-10365,5/25/26,Skyler Miller,skyler.miller67@example.com,4332982872,Portland,OR,Standing Desk,Furniture,4,449.00,0.00,Debit Card,Completed,Maria Lopez,
+ORD-10548,3/10/26,Skyler Miller,skyler.miller67@example.com,433.298.2872,Portland,OR,laptop stand,OFFICE,3,44.99,0.00,PayPal,Completed,Priya Shah,Customer requested email update
+ORD-10515,February 23 2026,Jamie Young,jamie.young42@example.com,,Phoenix,AZ,Desk Organizer,Office,6,18.50,0.00,PayPal,Completed, Priya Shah ,Call before delivery
+ORD-10325,2026-08-26,Robin Garcia,robin.garcia2@example.com,242-980-6479,Phoenix,AZ,Notebooks,OFFICE,7,12.99,0.00,PayPal,Completed,Daniel Kim,Customer requested email update
+ORD-10649,2026-02-17,Quinn Martinez,quinn.martinez10@example.com,(459) 323-8565,Renton,Washington,Laptop Stand,Office,3,44.99,0.00,PayPal,Completed,Maria Lopez,Repeat customer
+ORD-10326,August 15 2026,Robin Garcia,robin.garcia2@example.com,2429806479,Phoenix, AZ ,27in Monitor,Electronics,1,219.99,0.00,invoice,Pending,BEN CARTER,Rush order
+ORD-10153,02/11/2026,Hayden Rodriguez,hayden.rodriguez5@example.com,(274) 637-9654,Denver,CO,USB-C Hub,ELECTRONICS,8,39.99,0.10,Credit Card,Pending,PRIYA SHAH,
+ORD-10139,"May 20, 2026",Quinn Garcia,quinn.garcia86@example.com,(347) 494-5615,San Francisco,ca,Desk Lamp,Furniture,4,36.95,0.05,ACH,Completed,PRIYA SHAH,Repeat customer
+ORD-10617,03/30/2026,Riley Smith,riley.smith11@example.com,(462) 443-3586,KIRKLAND,Washington,Webcam,Electronics,4,54.99,0%,INVOICE,Cancelled,Marcus  Green,Call before delivery
+ORD-10306,05/20/2026,Alex Brown,alex.brown80@example.com,318.728.1322,Denver,CO,Desk Organizer,Office,2,18.50,5%,PayPal,Shipped,Maria Lopez,Repeat customer
+ORD-10632,05-10-2026,TAYLOR CLARK,taylor.clark26@example.com,2644815356,San Francisco,CA,Ergonomic Chair,Furniture,3,289.00,0.20,Debit Card,Completed,Maria Lopez,
+ORD-10273,07/13/2026,Emerson Martinez,emerson.martinez17@example.com,209-492-6580,Kirkland,WA,Webcam,ELECTRONICS,2,54.99,N/A,Invoice,Pending,Olivia Reed,Repeat customer
+ ORD-10422 ,April 20 2026,Alex Miller,alex.miller18example.com,(326) 567-8287,Kirkland,WA,Webcam,Electronics,4,$54.99,0.10,Credit Card,Cancelled,BEN CARTER,Customer requested email update
+ORD-10064,02/13/2026,quinn smith,quinn.smith89@example.com,(439) 236-1226,Portland,OR,Backpack,Accessories,3,64.95,,Credit Card,Sent,Olivia Reed,
+ORD-10212,"May 13, 2026",Quinn Garcia,quinn.garcia86@example.com,347-494-5615,,ca,Noise Cancelling Headphones,ELECTRONICS,8, 129.99 ,0.00,PayPal,Completed,Olivia Reed,Call before delivery
+ORD-10453,5/9/26,Morgan Miller,morgan.miller50@example.com,(317) 287-3257,Everett,WA,Water Bottle,Accessories,6,$19.99,0.00,credit card,complete,DANIEL KIM,Customer requested email update
+ORD-10297,May 19 2026,PARKER ANDERSON,parker.anderson40example.com,462-710-2122,Tacoma,WA,Water Bottle,Accessories,4,$19.99,0.15,debit,COMPLETED,OLIVIA REED,Deliver to front desk
+ORD-10288,2026-08-04,Avery Clark,avery.clark6@example.com,5054009478,Tacoma,WA,Standing Desk,Furniture,4,449.00,0.05,Invoice,Completed,Ben Carter,
+ORD-10060,07/01/2026,Hayden Davis,hayden.davis26example.com,300-238-9156, Portland,OR,Noise Cancelling Headphones,Electronics,4,129.99,0.20,Debit,Completed,Daniel Kim,Rush order
+ORD-10536,05/28/2026,Cameron  Thomas,cameron.thomas92@example.com,(427) 436-4024,Portland,OR,Cable Organizer,Accessories,8,9.99,0.20,PayPal,Completed,Olivia Reed,Repeat customer
+ORD-10221,03-07-2026,Quinn Martinez,quinn.martinez10@example.com,459-323-8565,Renton,WA,ergonomic chair,Furn.,2,$289.00,0.00,invoice,pending,Olivia  Reed,
+ORD-10649,2026-02-17,Quinn Martinez,quinn.martinez10@example.com,(459) 323-8565,Renton,Washington,Laptop Stand,Office,3,44.99,0.00,PayPal,Completed,Maria Lopez,Repeat customer
+ORD-10426,April 3 2026,AVERY CLARK,avery.clark6@example.com,5054009478,Tacoma,WA,Noise Cancelling Headphones,Electronics,4,129.99,0.15,Credit Card,Completed,Ben Carter,
+ORD-10223,"Apr 02, 2026",Riley Young,riley.young41example.com,479 429 2675,Kirkland,WA,Standing Desk,Furniture,2,449.00,0.10,Credit Card,Pending,Olivia Reed,Rush order
+ORD-10447,01/10/2026,Drew Wilson,drew.wilson39@example.con,500-732-9821,Bothell,WA,Ergonomic Chair,Furniture,1,289.00,N/A,Credit Card,Cancelled,Daniel Kim,Call before delivery
+ORD-10472,April 1 2026,Drew Lewis,drew.lewis89@example.com,2367912856,Bellevue,WA,Mechanical Keyboard,Electronics,5,74.99,0.05,ACH,Shipped, Priya Shah ,
+ORD-10531,03/16/2026,Jordan Allen,jordan.allen99@example.com,3386653668,Phoenix,az,Noise Cancelling Headphones,Electronics,2,129.99,N/A,ACH,Completed,Ben Carter,Customer requested email update
+ORD-10381,2/8/26, Casey Rodriguez ,casey.rodriguez42@example.com,289-672-7252,Kirkland,WA,27in Monitor,Electronics,5,219.99,0.00,ACH,Completed,Maria Lopez,Deliver to front desk
+ORD-10117,1/26/26,Drew Smith,drew.smith79@example.com,3753397404,Seattle,WA,Ergonomic Chair,Furniture,5,289.00,0.05,Debit Card,Shipped,Olivia Reed,
+ORD-10461,03-05-2026,Casey Young,casey.young58@example.com,2897016418,everett,Washington,Webcam,electronics,7,54.99,0.10,Invoice,Pending,Olivia Reed,
+ORD-10414,2026-01-30,drew lewis,drew.lewis89@example.com,236 791 2856,Bellevue,WA,Stand-up Desk,Furniture,5,449.00,0.00,Debit Card,Completed,Olivia Reed,Gift
+ORD-10431,September 3 2026,Avery Davis,avery.davis25@example.com,420-455-3479,Phoenix,AZ,Laptop Stand,office,5,44.99,0.10,Invoice,Completed,Maria Lopez,Customer requested email update
+ORD-10395,08/02/2026, Cameron Allen ,cameron.allen55@example.com,248 217 4646,San Francisco,CA,Backpack,Accessories,3,64.95,0.00,PayPal,Completed,Olivia Reed,Gift
+ord-10160,08/08/2026,Robin Brown,robin.brown56@example.com,245.863.4651,Portland,OR,27in Monitor,Electronics,6,219.99,0.15,PAYPAL,Completed,Olivia Reed,
+ORD-10411,03-03-2026,Morgan Miller,morgan.miller38@example.com,3168216454,Portland,OR,Webcam,Electronics,1,$54.99,10%,Debit Card,Completed,Marcus Green,Rush order
+ORD-10158,05-10-2026,Parker Williams,parker.williams91@example.com,424-917-6758,Redmond,WA,Desk Lamp,Furniture,6,36.95,20%,Debit Card,Pending,Ben Carter,Repeat customer
+ORD-10244,02/21/2026,Parker Smith,parker.smith98@example.com,498 874 5739,Tacoma,WA,Desk organiser,Office,1, 18.50 ,0.00,Invoice,Completed,Marcus Green,Rush order
+ORD-10226,May 2 2026,Cameron Smith,cameron.smith15@example.com,3647201120,DENVER,CO,USB-C Hub,Electronics,8,39.99,0%,Credit Card,Completed,Olivia Reed,
+ORD-10217,07-28-2026,Quinn Martinez,quinn.martinez10@example.com,459 323 8565,Renton,WA,"27"" Monitor",Electronics,1,219.99,0.00,INVOICE,Cancelled,Daniel Kim,
+ORD-10339,8/26/26,CAMERON WILLIAMS,cameron.williams15@example.com,443-467-9450,Denver,CO,Standing Desk,Furniture,8,449.00,0.05,ACH,Completed,Daniel Kim,Gift
+ORD-10658,05/24/2026,Parker Smith,,436-272-4258,Denver,CO,Wireless Mouse,Electronics,5,24.99,0.10,Credit Card,Shipped, Ben Carter ,Customer requested email update
+ORD-10571,March 26 2026,devin young,devin.young2@example.com,290.418.3059,Kirkland,WA,Ergonomic Chair,Furniture,5,289.00,0.05,Invoice,Pending,Priya Shah,Repeat customer
+ORD-10569,February 6 2026,avery lewis,avery.lewis53@example.com,480-541-7611,Redmond,WA,Water Bottle,Accessories,8,$19.99,0.00,Debit Card,Sent,Ben Carter,Rush order
+ORD-10207,02-14-2026,Kendall Clark,kendall.clark22@example.com,388-955-7890,Bothell,WA,Ergonomic Chair,Furniture,6,289.00,0.05,Invoice,Completed,Maria Lopez,Repeat customer
+ORD-10604,3/29/26,PARKER WILLIAMS,parker.williams91@example.com,424-917-6758,Redmond,WA,Webcam,Electronics,7,$54.99,0.15,Debit Card,Shipped,Priya Shah,
+ORD-10374,2026-08-04,Robin Williams,robin.williams45@example.com,438-586-5166,Seattle, WA ,Laptop Stand,OFFICE,4,$44.99,0.05,invoice,Shipped,Ben Carter,
+ORD10330,06/06/2026,Alex Jones,alex.jones98@example.con,(336) 388-6179,Tacoma,WA,Cable Organizer,Accessories,6,9.99,0.05,ACH,Pending,priya shah,Deliver to front desk
+ORD-10314,2026-06-30,Casey Young,casey.young58@example.com,289 701 6418, Everett,WA,Cable Organizer,Accessories,,9.99,0.05,CC,Completed,Ben Carter,
+ORD-10246,1/3/26,Emerson Brown,emerson.brown67@example.com,,Renton,WA,Backpack,Accessories,3,64.95,0.20,Credit Card,pending,Maria Lopez,Rush order
+ORD10404,"Jun 11, 2026",Taylor Clark,taylor.clark26@example.com,264-481-5356,San Francisco,ca,Mechanical Keyboard,Electronics,6,74.99,0.00,Visa/Mastercard,Cancelled,Marcus Green,
+ORD-10591,April 16 2026,Riley Garcia,riley.garcia64@example.com,417 850 5344,Seattle,WA,27in Monitor,Electronics,8,219.99,0.00,Debit Card,Completed,Olivia Reed,Deliver to front desk
+ORD-10638,September 2 2026,Drew Lewis,drew.lewis89@example.com,236.791.2856,Bellevue,WA,Laptop Stand,Office,8,44.99,0.05,PayPal,Shipped,Maria Lopez,Gift
+ORD-10375,March 10 2026,Cameron Anderson,cameron.anderson60@example.com,(300) 784-6957,Redmond,WA,Noise Cancelling Headphones,Electronics,3,129.99,0.05,Debit Card,Completed,Priya Shah,
+ORD-10459,03-23-2026,Robin Jones,robin.jones4@example.com,3332282396,,WA,wireless mouse,Electronics,6,24.99,0.00,Debit,shipped,Daniel Kim,Call before delivery
+ORD-10589,02/15/2026,Casey Smith,casey.smith32@example.con,489.234.7594,Bothell,WA,Laptop Stand,Office,4, 44.99 ,0.00,Invoice,Completed,Daniel Kim,
+ORD-10340,3/10/26, Parker Williams ,parker.williams28@example.com,(480) 418-7031,Seattle,WA,Desk Organizer,Office,8,18.50,,Debit Card,Shipped,Maria Lopez,
+ORD-10102,January 31 2026,Parker Jones,parker.jones86@example.com,452-351-3933,san francisco,CA,Desk Lamp,Furniture,,36.95,0.00,PAYPAL,Cancelled,Maria Lopez,Deliver to front desk
+ORD-10663,2026-06-07,Jamie Davis,jamie.davis3@example.com,4988842300,PORTLAND,OR,USB-C Hub,Electronics,5, 39.99 ,0%,PayPal,Completed,Ben  Carter,Repeat customer
+ORD-10208,July 29 2026,casey anderson,casey.anderson67@example.com,452 937 1118,Phoenix,AZ,Cable Organizer,Accessories,2,9.99,0.10,Credit Card,Completed,daniel kim,
+ORD-10695,01/14/2026,Sam Lewis,sam.lewis72@example.com,282 730 8228,Denver,CO,Mechanical Keyboard,Electronics,1,74.99,N/A,PayPal,Completed, Daniel Kim ,Customer requested email update
+ORD-10302,08/09/2026,Cameron Thomas,CAMERON.THOMAS44@EXAMPLE.COM,(259) 520-4617,Bellevue,WA,Cable Organiser,Accessories,7,9.99,,Debit Card,Completed, Priya Shah ,
+ORD-10019,2026-07-12,Jamie Davis,jamie.davis3@example.com,498 884 2300,Portland,OR,Desk Lamp,Furniture,1,36.95,0.00,ACH,Completed,ben carter,Repeat customer
+ORD-10181,March 13 2026,Sam Harris,sam.harris67@example.com,344-542-4152,BELLEVUE,WA,Noise Cancelling Headphones,Electronics,,129.99,0.10,Invoice,Completed,Olivia Reed,Call before delivery
+ORD-10493,2026-01-17, CAMERON WILSON ,cameron.wilson63@example.com,(270) 817-7736,Portland,Oregon,Wireless Mouse,Electronics,2,24.99,0.00,Credit Card,Completed,Marcus Green,Gift
+ORD-10224,January 11 2026,QUINN ALLEN,quinn.allen97@example.com,(349) 557-3824,Kirkland,WA,Wireless Mouse,Electronics,2,$24.99,0.00,ACH,Shipped,Ben Carter,Deliver to front desk
+ord-10586,"Jul 06, 2026",Cameron Anderson,cameron.anderson60@example.com,(300) 784-6957,Redmond,WA,Laptop Stand,Office Supplies,2,44.99,0.05,Invoice,cancelled,Daniel Kim,Repeat customer
+ORD-10091,5/19/26,Avery Walker,avery.walker95@example.com,2773078257, Bellevue,WA,Laptop Stand,Office,5,44.99,0.00,PayPal,Completed,MARCUS GREEN,Call before delivery
+ORD10265,6/25/26,Riley Smith,RILEY.SMITH11@EXAMPLE.COM,462.443.3586,kirkland,WA,Laptop Stand,OFFICE,4,44.99,0.10,Credit Card,Pending,Priya Shah,
+ORD-10580,"Jan 13, 2026",Parker Williams,parker.williams28@example.com,480-418-7031,Seattle,WA,Desk Lamp,Furniture,8,36.95,0.00,Invoice,Shipped, Olivia Reed ,Gift
+ORD-10187,02/14/2026, Emerson Brown ,emerson.brown91@example.com,2989189882,Denver,CO,Webcam,Electronics,2,$54.99,0.15,Credit Card,Completed,Marcus Green,Repeat customer
+ORD-10520,July 19 2026,Drew Wilson,drew.wilson39@example.com,500-732-9821,Bothell,WA,Noise Cancelling Headphones,Electronics,2,129.99,0.00,Debit Card,Completed,Olivia Reed,
+ORD-10304,2026-01-31,Sam Lewis,sam.lewis79@example.com,,Bothell,WA,"27"" Monitor",Electronics,4,219.99,0%,Debit Card,Shipped,MARIA LOPEZ,Rush order
+ord-10350,8/12/26,Avery Clark,avery.clark4@example.com,414 471 6859,San Francisco,CA,Wireless Mouse,Electronics,6,24.99,0.00,Invoice,pending,Maria Lopez,
+ORD-10436,2026-08-11,Emerson Martinez,emerson.martinez17@example.com,209-492-6580,Kirkland,WA,USB-C Hub,Electronic,1,39.99,,debit,SHIPPED,Priya Shah,
+ORD-10293,08-28-2026,Robin Harris,ROBIN.HARRIS63@EXAMPLE.COM,279.375.9877,Kirkland,WA,Standing Desk,furniture,2, 449.00 ,0.10,Debit Card,Completed,Ben Carter,
+ORD-10175,3/30/26,Jamie Clark,jamie.clark43@example.com,353-278-1946, Bothell,Washington,Notebook Set,Office,6,12.99,N/A,Debit Card,COMPLETED,Ben Carter,Repeat customer
+ORD-10594,09/03/2026,taylor garcia,taylor.garcia44example.com,425-754-1047,Redmond,WA,27in Monitor,Electronics,4,219.99,0.10,Invoice,Completed,Ben Carter,Gift
+ORD-10173,03/07/2026,Emerson Brown,emerson.brown91@example.com,298.918.9882,Denver,CO,USB-C Hub,Electronics,4,39.99,0.15,Credit Card,Completed,Daniel  Kim,
+ORD-10124,08/18/2026,Emerson Miller,emerson.miller25example.com,3137997329,Tacoma,WA,Backpack,Accessories,7,64.95,0.00,Invoice,CANCELLED,Daniel Kim,Repeat customer
+ORD-10327,07/07/2026,Kendall Anderson,kendall.anderson89@example.com,501.556.4508,Bothell,WA,Water Bottle,Accessories,3,19.99,0.05,ACH,Pending,Maria Lopez,Deliver to front desk
+ORD-10274,May 1 2026,Quinn Allen,quinn.allen97@example.com,349-557-3824,Kirkland,WA,Notebook Set,Office Supplies,2,$12.99,0.10,Credit Card,Completed,Marcus Green,Repeat customer
+ORD-10337,07/16/2026, Avery Clark ,avery.clark6@example.com,(505) 400-9478,Tacoma,WA,Desk Organizer,Office,5,18.50,0.00,Invoice,Pending,Daniel Kim,
+ORD-10136,5/29/26,Parker Williams,parker.williams91@example.com,4249176758,Redmond,WA,27in Monitor,Electronics,4,219.99,0.00,PayPal,complete,Maria Lopez,Rush order
+ORD-10384,03/31/2026,Taylor Lewis,taylor.lewis26@example.com,322 648 3752,Redmond,WA,Ergonomic Chair,Furniture,3,289.00,0.00,PayPal,Completed,Olivia Reed,Call before delivery
+ORD-10309,2026-05-09,Emerson Allen,emerson.allen62@example.com,4965174262, Bothell,WA,Cable Organizer,Accessories,5, 9.99 ,,ACH,Shipped, Olivia Reed ,Customer requested email update
+ORD-10653,5/17/26,Hayden Rodriguez, hayden.rodriguez72@example.com ,445-558-3662,Everett,WA,Cable Organizer,Accessories,8,9.99,0.15,Invoice,Pending,Olivia Reed,
+ORD-10164,01/17/2026,Parker Smith,parker.smith69@example.com,(436) 272-4258,Denver,co,Backpack,Accessories,5,$64.95,0.10,Credit Card,Completed,Maria Lopez,Gift
+ORD-10103,6/16/26,SKYLER ALLEN,skyler.allen18@example.com,(292) 730-8507,Redmond,WA,Backpack,Accessories,5,$64.95,0.15,ACH,Shipped,Daniel Kim,Customer requested email update
+ORD-10249,03/18/2026,Quinn Harris,quinn.harris66example.com,,Tacoma,WA,Desk Lamp,Furn.,4,36.95,0.10,PayPal,Shipped,Maria Lopez,Call before delivery
+ORD-10558,"May 18, 2026",Casey Davis,casey.davis98@example.com,3152763551,Seattle,Washington,Laptop Stand,Office,two,44.99,0.00,ACH,Completed,Olivia Reed,
+ORD-10366,4/20/26,Hayden Davis,hayden.davis26@example.com,300-238-9156,Portland,OR,27in Monitor,Electronics,7,219.99,,Credit Card,Pending,Priya  Shah,Call before delivery
+ORD-10460,2026-03-31,Devin Young,devin.young2@example.com,(290) 418-3059,Kirkland,WA,Laptop Stand,Office,4,$44.99,0.05,Invoice,Completed,Priya Shah,Repeat customer
+ORD-10131,"Mar 08, 2026",Jamie Jones,jamie.jones70@example.com,3146762433,Bellevue,WA,USB-C Hub,ELECTRONICS,1, 39.99 ,5%,Debit Card,Cancelled,Ben  Carter,
+ORD-10243,03/22/2026,ROBIN BROWN,robin.brown56@example.com,(245) 863-4651,Portland,OR,Noise Cancelling Headphones,Electronics,1,129.99,0.00,Visa/Mastercard,Completed,Priya Shah,
+ORD-10600,07-07-2026, Quinn Lewis ,quinn.lewis84@example.com,(292) 310-1235,Redmond,WA,Backpack,Accessories,8, 64.95 ,0.00,invoice,Pending,Marcus Green,Repeat customer
+ORD-10507,06-22-2026,Parker Williams,parker.williams28@example.com,4804187031, Seattle,WA,Cable Organizer,Accessories,7,$9.99,0.00,Credit Card,COMPLETED,Maria Lopez,Call before delivery
+ORD-10285,July 4 2026,Taylor Lewis,taylor.lewis26@example.com,3226483752,REDMOND,WA,USB-C Hub,electronics,3, 39.99 ,0.00,Credit Card,Completed,Priya Shah,Gift
+ORD-10543,February 8 2026,EMERSON SMITH,emerson.smith75@example.com,270-542-8254,Phoenix,AZ,Backpack,Accessories,4, 64.95 ,0.00,Credit Card,Completed,Maria Lopez,
+ORD-10082,July 19 2026,Cameron Allen,cameron.allen55@example.com,248 217 4646,San Francisco,CA,Cable Organizer,Accessories,7,$9.99,0.00,Invoice,pending,Marcus Green,Deliver to front desk
+ORD-10471,"Aug 12, 2026",taylor miller,taylor.miller36@example.com,4012871324, San Francisco,ca,Desk Organizer,Office,7,18.50,0.00,Debit Card,Shipped,MARCUS GREEN,Repeat customer
+ORD-10031,July 6 2026,Alex Smith,alex.smith11@example.com,,Renton,WA,27in Monitor,Electronics,5,219.99,0.10,debit,COMPLETED,Daniel  Kim,
+ORD-10631,2026-02-12,quinn thomas,quinn.thomas25@example.com,(391) 958-5594,Redmond,WA,USB-C Hub,ELECTRONICS,2, 39.99 ,0.10,Credit Card,Completed,Marcus Green,Deliver to front desk
+ORD-10048,06/06/2026,Emerson Brown,emerson.brown91@example.com,298-918-9882,Denver ,CO,Wireless Mouse,Electronics,7,$24.99,0.00,ACH,complete,Maria Lopez,
+ORD-10146,2026-07-14,Casey Rodriguez,casey.rodriguez42@example.com,289-672-7252,Kirkland,WA,Standing Desk,Furniture,5,449.00,0.00,Debit Card,Shipped,DANIEL KIM,
+ORD-10116,July 6 2026,Kendall Clark,kendall.clark77@example.con,268 916 4531,Portland,OR,USB-C Hub,ELECTRONICS,two,$39.99,0.15,Credit Card,Completed,Olivia Reed,Gift
+ord-10641,2026-06-21,Emerson Miller,emerson.miller25@example.con,313-799-7329,Tacoma,WA,Notebook Set,Office,6,12.99,0.00,debit,Completed,Daniel Kim,
+ORD-10533,2026-03-13,Parker Lewis,parker.lewis19@example.com,4396592520,, WA ,Mechanical Keyboard,ELECTRONICS,6,74.99,,Debit Card,Completed,Daniel Kim,Rush order
+ORD-10368,7/24/26,Kendall Harris,kendall.harris72@example.com,488.629.7416,Tacoma,WA,Cable Organizer,Accessories,3,9.99,,Debit Card,Completed,maria lopez,Call before delivery
+ORD-10605,January 8 2026,Avery Walker,avery.walker95@example.com,277-307-8257,,WA,Cable Organizer,Accessories,7,$9.99,,ACH,Completed,marcus green,Rush order
+ORD-10587,August 16 2026,Quinn Thomas,quinn.thomas25@example.com,(391) 958-5594,,WA,Water Bottle,Accessories,7,19.99,10%,Credit Card,Completed,Daniel Kim,Gift
+ORD-10005,03/19/2026,skyler miller,skyler.miller67@example.com,433-298-2872,Portland,OR,Notebook Set,Office,3,$12.99,15%,Credit Card,Completed,Olivia Reed,
+ORD-10364,01-23-2026,Parker Williams,,424-917-6758,Redmond,WA,USB-C Hub,Electronics,8,$39.99,0.10,PayPal,Cancelled,Marcus  Green,Customer requested email update
+ORD-10238,2026-04-16, Skyler Brown ,skyler.brown73@example.com,395 971 3990,Tacoma,WA,Desk Organizer,Office,2,18.50,0.00,Credit Card,Pending,Olivia Reed,Rush order
+ORD-10698,2026-07-18,Emerson Williams,emerson.williams7@example.com,262.499.6563,Portland,OR,Backpack,accessories,3,64.95,10%,Invoice,Completed,Daniel Kim,
+ORD-10634,05-31-2026, Skyler Wilson ,skyler.wilson84@example.com,415-360-2062,Renton ,WA,Desk Organizer,Office,1, 18.50 ,0.15,Debit Card,PENDING, Priya Shah ,
+ord-10332,"Jun 01, 2026",Quinn Lee,quinn.lee57@example.com,368-457-2050,Bellevue ,Washington,Webcam,Electronics,7,54.99,N/A,ACH,Completed,Priya Shah,
+ORD-10108,2026-06-24,hayden rodriguez,hayden.rodriguez5@example.com,(274) 637-9654,Denver,CO,Ergo Chair,Furniture,5,289.00,0%,ACH,shipped,olivia reed,
+ord-10462,"Aug 29, 2026",Skyler Allen,skyler.allen98@example.com,2765004158,Renton,WA,Webcam,ELECTRONICS,3,54.99,,ACH,Shipped, Maria Lopez ,
+ORD-10163,05/30/2026,Hayden Rodriguez,hayden.rodriguez5@example.com,274 637 9654,DENVER,co,Desk Organizer,Office,3,18.50,0.10,invoice,Completed,Olivia Reed,
+ORD-10190,2026-01-21,Quinn Harris,quinn.harris66@example.com,,Tacoma,WA,Desk Organizer,Office,7,18.50,0.05,Credit Card,Completed,Priya Shah,Repeat customer
+ORD-10654,02/27/2026,Taylor Lee,taylor.lee82@example.com,250.287.8882,Denver,CO,Desk Organizer,Office,4, 18.50 ,0.05,Credit Card,Completed,Marcus Green,Repeat customer
+ORD-10686,August 10 2026,cameron thomas,cameron.thomas92@example.com,427.436.4024,Portland,OR,27in Monitor,Electronics,7,$219.99,0.00,Invoice,Pending,ben carter,Rush order
+ORD-10189,January 8 2026, Skyler Allen ,skyler.allen18example.com,2927308507,Redmond,WA,Notebook Set,Office,3,12.99,0.00,Credit Card,Refunded,DANIEL KIM,
+ORD-10315,May 24 2026,Kendall Harris,kendall.harris72@example.com,488.629.7416,TACOMA,WA,Ergonomic Chair,Furniture,2,289.00,0.00,Credit Card,Completed,Daniel Kim,Repeat customer
+ORD-10093,3/20/26,Riley Smith, riley.smith11@example.com ,(462) 443-3586,Kirkland ,WA,Backpack,Acc.,4, 64.95 ,0.00,Debit Card,complete,Ben Carter,
+ORD-10522,July 7 2026,Jamie Brown,jamie.brown17@example.com,251 808 3676,EVERETT,WA,Laptop Stand,office,6,44.99,0%,ACH,Completed,Maria Lopez,
+ORD-10390,"Apr 19, 2026",Sam Lewis,sam.lewis79@example.com,417-741-3360,Bothell,WA,Water Bottle,Accessories,7,19.99,0.00,ACH,COMPLETED,Priya Shah,
+ORD-10073,8/21/26,Taylor Lewis,taylor.lewis85@example.con,2222318278,PHOENIX,AZ,Cable Organizer,Accessories,,9.99,5%,Debit Card,COMPLETED,Maria Lopez,
+ORD-10450,July 20 2026,parker anderson,parker.anderson79@example.com,291 493 4498,Tacoma,WA,mechanical keyboard,Electronics,8,74.99,0.00,PayPal,Shipped,Olivia Reed,Gift
+ORD-10377,February 17 2026,Drew Lewis,drew.lewis89@example.com,236-791-2856,Bellevue,WA,Laptop Stand,Office,8, 44.99 ,0.05,PayPal,Shipped,Ben Carter,Customer requested email update
+ORD-10228,05/23/2026,Emerson Smith,,270.542.8254,Phoenix,AZ,Wireless Mouse,Electronics,1,24.99,0.05,Debit Card,Completed,Marcus Green,
+ORD-10277,"Mar 15, 2026",Drew Lewis,drew.lewis89@example.com,236-791-2856,,WA,Water Bottle,Acc.,1,19.99,,PAYPAL,Completed,Maria Lopez,Repeat customer
+ORD-10032,2026-08-23,Riley Young,riley.young41@example.com,(479) 429-2675,Kirkland,wa,27in Monitor,Electronics,6,219.99,0.05,ACH,Completed,Olivia Reed,
+ORD-10688,05/02/2026,Quinn Brown,quinn.brown80@example.com,(273) 991-5467,Portland,OR,usb-c hub,Electronics,8,39.99,0.00,Debit Card,Shipped,Olivia Reed,Gift
+ORD-10623,January 31 2026,Emerson Brown,,298 918 9882,,co,Ergonomic Chair,Furniture,6,289.00,0.00,PayPal,Completed,marcus green,Gift
+ORD-10397,08/31/2026,Robin Williams,robin.williams45@example.com,438-586-5166,Seattle,WA,USB-C Hub,Electronics,2,$39.99,0.00,Invoice,Completed,Ben Carter,Rush order
+ORD-10661,02/13/2026,Skyler Allen,skyler.allen98example.com,276-500-4158,Renton,wa,Ergonomic Chair,Furniture,1,$289.00,5%,Debit Card,Completed,Marcus Green,
+ORD-10184,April 11 2026, Hayden Martinez ,hayden.martinez16@example.com,(489) 278-5593,Seattle,WA,Mechanical Keyboard,Electronics,8,74.99,0.10,PAYPAL,Pending,Priya Shah,Call before delivery
+ORD-10490,1/15/26,Drew Brown,drew.brown25@example.com,(480) 954-8795,Everett,Washington,Noise Cancelling Headphones,Electronics,7,$129.99,0%,Invoice,Completed,Olivia Reed,
+ORD-10341,2026-06-06,Jamie Jones,jamie.jones70@example.com,314-676-2433,Bellevue,WA,Noise Cancelling Headphones,Electronics,4,129.99,0.00,PayPal,Cancelled,Marcus Green,Rush order
+ORD-10415,2026-04-28,Emerson Williams,emerson.williams7@example.com,262.499.6563,Portland,Oregon,wireless mouse,Electronics,4,24.99,0.10,Credit Card,Completed,Ben Carter,Repeat customer
+ORD-10236,02/01/2026,Parker Williams,parker.williams16example.com,207 944 1012,Phoenix,AZ,Backpack,Accessories,7,64.95,0.05,ACH,Completed,Priya Shah,
+ord-10357,7/13/26,Drew Smith,drew.smith79@example.com,3753397404,Seattle,WA,USB-C Hub,Electronics,7,39.99,10%,ACH,Completed,Priya Shah,
+ORD-10587,August 16 2026,Quinn Thomas,quinn.thomas25@example.com,(391) 958-5594,,WA,Water Bottle,Accessories,7,19.99,10%,Credit Card,Completed,Daniel Kim,Gift
+ ORD-10416 ,March 16 2026,Skyler Brown,skyler.brown73@example.com,(395) 971-3990,Tacoma,WA,Desk Organizer,Office,6,18.50,0.00,Debit Card,Refunded,Maria Lopez,Gift
+ORD-10259,2026-04-19,Jamie Clark,JAMIE.CLARK43@EXAMPLE.COM,353 278 1946,Bothell,Washington,Wireless Mouse,Electronics,7,$24.99,0.10,PayPal,Completed,Ben Carter,Gift
+ORD-10063,03/03/2026,Emerson Williams,emerson.williams7@example.com,2624996563,Portland, OR ,Cable Organizer,Accessories,5,9.99,0%,Debit,COMPLETED,Daniel Kim,Repeat customer
+ORD-10574,May 8 2026,Alex  Allen,alex.allen21@example.com,390.750.3697,Seattle,WA,Notebook Set,Office,2,$12.99,0.00,PAYPAL,Completed,Marcus Green,Call before delivery
+ORD-10445,01/31/2026,Robin Young,robin.young50@example.com,(255) 419-1353,Bellevue,WA,Notebook Set,Office,2,12.99,0.00,Invoice,Completed,Priya Shah,Call before delivery
+ORD-10419,7/3/26,Jordan Lewis,jordan.lewis74@example.com,(259) 533-6902,Bellevue,WA,Standing Desk,Furniture,8,449.00,0.00,ACH,Completed,Ben Carter,Rush order
+ORD-10059,02/08/2026,Drew Smith,drew.smith79@example.com,375 339 7404,SEATTLE,Washington,Standing Desk,Furniture,5,449.00,,Credit Card,Done,Olivia Reed,Gift
+ORD-10457,07/18/2026,Hayden Rodriguez,hayden.rodriguez5@example.com,274-637-9654,DENVER,CO,Desk Organizer,Office Supplies,4,18.50,N/A,Invoice,Completed,Daniel Kim,Customer requested email update
+ORD10579,8/24/26,Avery Martinez,avery.martinez57@example.com,326-475-7276,San Francisco ,CA,Cable Organizer,Accessories,6,9.99,0.15,Invoice,Shipped,Ben Carter,
+ORD-10065,July 4 2026,Hayden Davis,hayden.davis46@example.com,(342) 230-1660,kirkland,WA,Mechanical Keyboard,electronics,3,74.99,0.00,ACH,Completed,Priya Shah,
+ORD-10345,2026-07-05,Parker Williams,parker.williams16@example.com,2079441012,Phoenix,AZ,Standing Desk,Furniture,2,449.00,0.00,PayPal,shipped,Priya Shah,Customer requested email update
+ORD-10286,March 19 2026,sam harris,sam.harris67@example.com,(344) 542-4152,Bellevue,Washington,Notebook set,Office,5,12.99,0.15,debit,Sent,Marcus Green,
+ORD-10523,March 24 2026,Morgan Clark,morgan.clark50@example.com,423-607-1689,Bothell,WA,Desk Organizer,Office,8,$18.50,5%,PayPal,Shipped,Maria Lopez,Customer requested email update
+ORD-10095,"Jan 31, 2026",robin harris,robin.harris63@example.com,2793759877,Kirkland,WA,Laptop Stand,OFFICE,1, 44.99 ,0.00,Credit Card,Cancelled,Olivia Reed,Deliver to front desk
+ORD-10677,2026-03-04,Drew Smith,drew.smith79@example.com,375-339-7404,Seattle,Washington,Ergonomic Chair,Furniture,7,289.00,0.00,Credit Card,Completed, Marcus Green ,
+ORD-10262,6/15/26,Kendall Harris,kendall.harris72example.com,488-629-7416,Tacoma,WA,Webcam,Electronics,6,54.99,0.00,Bank Transfer,Completed,Maria Lopez,Deliver to front desk
+ORD-10655,03/20/2026,Jamie Jones,jamie.jones70@example.com,3146762433,,WA,Ergonomic Chair,Furniture,7,289.00,0.05,PayPal,Shipped,Maria Lopez,
+ORD-10008,08/23/2026,Alex Smith,alex.smith11@example.com,(260) 517-4429,Renton,WA,Webcam,Electronics,7,54.99,0.00,Debit Card,Completed,Marcus Green,Repeat customer
+ORD-10541,08/21/2026,jordan allen,jordan.allen86@example.com,479.575.2487,Bellevue,WA,Noise Cancelling Headphones,Electronics,6,129.99,0.10,Credit Card,Completed,Marcus Green,Repeat customer
+ORD-10349,"Apr 01, 2026",Quinn Lee,quinn.lee57@example.com,3684572050,Bellevue,WA,desk organizer,Office,7,18.50,0.00,Credit Card,Completed,Daniel Kim,
+ORD-10613,January 6 2026,Jamie Davis,jamie.davis3@example.com,498-884-2300,Portland,Oregon,USB-C Hub,Electronics,6,39.99,0.00,credit card,Completed,Priya Shah,Gift
+ORD-10310,06/08/2026,Robin Harris,robin.harris63@example.com,(279) 375-9877,KIRKLAND,WA,Webcam,Electronics,4,$54.99,0.00,PayPal,Completed,PRIYA SHAH,
+ORD-10142,2026-02-28,Alex Miller,alex.miller18@example.com,(326) 567-8287,Kirkland, WA ,Desk Organizer,office,6,$18.50,,PayPal,Pending,Daniel Kim,Gift
+ORD-10248,March 22 2026,Jordan Allen,jordan.allen99@example.com,338-665-3668,Phoenix,AZ,Laptop Stand,Office,2,44.99,0.00,ACH,Shipped,Priya Shah,
+ORD-10596,August 26 2026, Jamie Clark ,jamie.clark43@example.com,353 278 1946,Bothell,WA,27in Monitor,Electronics,8,$219.99,0.15,PAYPAL,Canceled,Ben Carter,Rush order
+ORD-10388,2026-02-07, Drew Brown ,drew.brown25@example.com,480-954-8795,Everett,WA,Laptop Stand,office,3,44.99,0%,Debit Card,Completed, Priya Shah ,Call before delivery
+ ORD-10481 ,06-02-2026, Taylor Lee ,taylor.lee71@example.com,3426968331,San Francisco,CA,Laptop Stand,Office,6,44.99,0.15,Credit Card,Completed,Maria Lopez,
+ORD-10205,06/06/2026,Emerson Brown,emerson.brown67@example.com,3853924923, Renton,WA,Desk  Lamp,Furniture,5,36.95,N/A,Invoice,COMPLETED,Ben Carter,
+ORD-10137,January 31 2026,Hayden Davis,hayden.davis26@example.com,(300) 238-9156,Portland,OR,Wireless Mouse,ELECTRONICS,3,24.99,0.00,Debit Card,Completed,Maria Lopez,Rush order
+ORD-10342,04/03/2026,Emerson Jones,emerson.jones3@example.com,(438) 404-3110,TACOMA, WA ,27in Monitor,Elec.,8,219.99,0%,Invoice,Completed,Maria Lopez,Repeat customer
+ORD-10451,05/07/2026,Drew Smith,drew.smith79@example.com,375 339 7404,Seattle,WA,Desk Lamp,furniture,7,36.95,0%,PayPal,Completed,Priya Shah,
+ORD-10585,2026-08-10,jamie davis,jamie.davis3@example.com,498-884-2300,Portland,OR,USB-C Hub,Electronics,8,39.99,0.00,Credit Card,Shipped,Daniel Kim,Repeat customer
+ORD-10625,February 7 2026,Devin Young,devin.young2@example.com,290.418.3059,Kirkland,WA,Desk Lamp,Furniture,8,36.95,0.00,ACH,Completed,MARCUS GREEN,
+ORD-10678,"Jul 21, 2026",Jamie Jones,jamie.jones70@example.com,3146762433,Bellevue,WA,Mechanical Keyboard,Electronics,3,$74.99,0.00,Invoice,Pending,Priya Shah,Gift
+ORD-10053,"May 08, 2026",Devin Young,devin.young2@example.com,(290) 418-3059,Kirkland,WA,back pack,Accessories,N/A,64.95,0.00,CC,Completed,Maria Lopez,Rush order
+ORD-10455,2026-08-13,Jordan Jones,jordan.jones94@example.com,284-826-8598,kirkland,WA,27in Monitor,Electronics,5, 219.99 ,0.10,Credit Card,Completed,Ben Carter,Gift
+ORD-10067,"May 18, 2026",QUINN MARTINEZ,quinn.martinez10@example.com,(459) 323-8565,Renton,WA,Water Bottle,Accessories,7,$19.99,0.05,ACH,pending, Daniel Kim ,Call before delivery
+ORD-10129,04/01/2026,Parker Williams,parker.williams28@example.com,480-418-7031,Seattle,Washington,27in Monitor,Electronics,6,$219.99,0.20,Paypal,Completed,Maria Lopez,Call before delivery
+ORD-10568,2026-04-06, Avery Martinez ,avery.martinez57@example.com,326.475.7276,San Francisco,ca,cable organizer,accessories,4,9.99,0.00,Debit Card,Refunded,Marcus Green,
+ORD-10584,2026-05-13,Robin Brown,robin.brown56@example.com,245 863 4651,Portland,OR,Desk Lamp,FURNITURE,2,36.95,0.05,Debit Card,Completed,Maria Lopez,
+ORD-10041,2026-04-20,Robin Jones,robin.jones4@example.com,333.228.2396,Kirkland,WA,Noise Cancelling Headphones,Electronics,3,129.99,0.00,invoice,Pending,Ben Carter,Rush order
+ORD-10197,04-12-2026,Drew Johnson,drew.johnson40@example.com,296 960 6865,PHOENIX,AZ,Wireless Mouse,Electronics,N/A,$24.99,20%,Invoice,Completed,Daniel Kim,Rush order
+ORD-10322,08/24/2026,Parker Williams,parker.williams16@example.com,(207) 944-1012,Phoenix,AZ,Notebook Set,Office,5, 12.99 ,0.00,ACH,Shipped,Ben Carter,Call before delivery
+ORD-10355,9/1/26,Parker Smith,parker.smith69@example.com,436.272.4258,Denver,CO,Noise Cancelling Headphones,Electronics,4,$129.99,5%,PayPal,COMPLETED,Ben Carter,Rush order
+ORD-10642,"Mar 26, 2026",Jamie Davis,jamie.davis3@example.com,(498) 884-2300,portland,OR,Notebook Set,office,7,12.99,0.15,ach,Completed,Priya Shah,Repeat customer
+ORD-10087,4/18/26,Hayden Rodriguez,hayden.rodriguez72@example.com,445.558.3662,EVERETT,WA,Backpack,ACCESSORIES,2,64.95,0.05,PayPal,Pending,Daniel  Kim,Deliver to front desk
+ORD-10052,March 14 2026,Robin Young,robin.young50@example.com,(255) 419-1353,Bellevue,WA,Desk Lamp,Furniture,6,36.95,,ach,Refunded,Marcus Green,Call before delivery
+ORD-10583,03/19/2026,Hayden Davis,hayden.davis46@example.con,342 230 1660,Kirkland,WA,Backpack,Acc.,2,64.95,5%,Credit Card,Shipped,Marcus Green,
+ord-10652,June 9 2026,Taylor Lewis,taylor.lewis26@example.com,322-648-3752,Redmond,wa,Desk Organizer,Office,2,18.50,0.00,Credit Card,Completed,Ben Carter,Rush order
+ORD-10511,May 20 2026,RILEY MARTINEZ,riley.martinez74@example.com,4517773549,Phoenix,AZ,Standing Desk,Furniture,7,449.00,0.00,Bank Transfer,Refunded,MARCUS GREEN,Repeat customer
+ORD-10635,01/17/2026,Morgan Thomas,morgan.thomas69@example.com,(291) 589-6544,Everett,WA,Backpack,accessories,7,64.95,0.05,Debit Card,Shipped,Ben Carter,
+ORD-10636,01/19/2026,Quinn  Allen,quinn.allen97@example.com,3495573824, Kirkland,WA,Standing Desk,Furniture,1,449.00,N/A,ACH,Shipped,Olivia Reed,Deliver to front desk
+ORD-10504,02/21/2026,Kendall Clark,kendall.clark77@example.com,268.916.4531,Portland,OR,Standing Desk,Furniture,3,449.00,0%,ACH,Completed,Olivia Reed,Customer requested email update
+ ORD-10657 ,08-13-2026,Drew Johnson,drew.johnson40@example.com,296.960.6865,Phoenix,AZ,Standing Desk,Furniture,4,$449.00,0.00,Invoice,Completed,BEN CARTER,
+ORD-10607,05/11/2026,Quinn Brown,quinn.brown19@example.com,4452295162,phoenix,AZ,Desk Lamp,,1,36.95,0.00,PayPal,shipped,Maria Lopez,Repeat customer
+ORD-10612,8/14/26,Devin Martinez,devin.martinez7@example.com,(272) 455-7220,San Francisco,ca,Cable Organizer,Accessories,6,9.99,0.00,Credit Card,shipped,Priya Shah,Deliver to front desk
+ORD-10491,4/29/26,Robin Johnson,robin.johnson66@example.com,(341) 242-4324,Denver,CO,27in Monitor,Electronics,5,219.99,0.00,ACH,Completed,Maria Lopez,Call before delivery
+ORD-10499,July 23 2026, Casey Young ,casey.young58@example.com,(289) 701-6418,Everett,WA,Notebook Set,office,8,12.99,0.00,Invoice,Completed,BEN CARTER,Repeat customer
+ORD-10464,August 27 2026,Reese Martinez,reese.martinez6@example.com,(362) 477-5413,RENTON,WA,Webcam,Electronics,4,54.99,0.00,CC,Shipped,Olivia Reed,Rush order
+ORD-10489,"May 22, 2026",Morgan Davis,morgan.davis16@example.com,338-502-8222,Renton,WA,desk organizer,Office,3,18.50,0.15,Invoice,Shipped,Olivia Reed,Rush order
+ORD-10055,2026-04-17,Taylor Lewis,taylor.lewis26example.com,,Redmond,WA,Backpack,Acc.,8,64.95,0%,Debit Card,Completed,DANIEL KIM,Rush order
+ORD-10387,01-29-2026,CASEY WILLIAMS,casey.williams9@example.com,(314) 524-8992,kirkland,WA,Notebook Set,Office,4,12.99,0.10,credit card,COMPLETED,OLIVIA REED,Repeat customer
+ORD-10021,8/11/26,Robin Anderson,robin.anderson83@example.com,(386) 628-9091, Bothell,wa,Standing Desk,Furniture,2,449.00,0.00,Debit Card,Shipped, Ben Carter ,
+ORD-10644,03-12-2026,Drew Lewis,drew.lewis89@example.com,(236) 791-2856,Bellevue,Washington,Backpack,Accessories,6,64.95,0%,Invoice,complete,Ben Carter,
+ORD-10379,06/22/2026,Emerson Williams,emerson.williams7@example.com,262-499-6563,Portland,OR,Noise Cancelling Headphones,Electronics,3,$129.99,0.00,Invoice,Pending,Ben Carter,
+ORD-10564,June 19 2026,Robin  Garcia,robin.garcia2@example.com,242 980 6479,Phoenix,AZ,Desk Organizer,Office,7, 18.50 ,0.00,PayPal,COMPLETED,Olivia Reed,Customer requested email update
+ORD-10642,"Mar 26, 2026",Jamie Davis,jamie.davis3@example.com,(498) 884-2300,portland,OR,Notebook Set,office,7,12.99,0.15,ach,Completed,Priya Shah,Repeat customer
+ORD-10321,04/08/2026,Robin Wilson,robin.wilson26@example.com,(429) 845-1003,Denver,CO,Mechanical Keyboard,Electronics,1,74.99,0.00,PayPal,Completed,Marcus Green,Repeat customer
+ORD-10344,2026-02-09,Cameron Williams,cameron.williams15@example.com,,Denver,CO,Notebook Set,Office,6,12.99,10%,Bank Transfer,Completed,Maria Lopez,
+ORD-10161,04/15/2026,Alex Brown,alex.brown80@example.com,(318) 728-1322,Denver,CO,Desk Organizer,Office,2,18.50,0.00,debit,Completed,Priya Shah,Call before delivery
+ORD-10550,02/16/2026,RILEY MARTINEZ,riley.martinez74@example.com,451-777-3549,phoenix,AZ,Wireless Mouse,Electronics,6,24.99,0.20,Invoice,Cancelled,Marcus Green,
+ORD-10011,July 2 2026,Robin Garcia,robin.garcia2@example.com,242 980 6479,Phoenix,AZ,Cable Organizer,Accessories,5,9.99,0.05,ach,Shipped,Ben Carter,Customer requested email update
+ORD-10420,1/25/26,Hayden Rodriguez,hayden.rodriguez72@example.com,(445) 558-3662,Everett,Washington,Water Bottle,Accessories,7,$19.99,0.00,ACH,complete,maria lopez,Rush order
+ORD-10101,May 15 2026, Casey Williams , casey.williams9@example.com ,314.524.8992,Kirkland,WA,USB-C Hub,Electronics,3,39.99,0.00,PayPal,Completed,PRIYA SHAH,Customer requested email update
+ord-10299,8/20/26,Devin Brown,devin.brown87@example.com,237-482-8499,Denver,CO,Wireless Mouse,Electronics,4,24.99,0.10,Invoice,Completed,Daniel  Kim,Repeat customer
+ORD-10022,June 30 2026,Hayden Martinez,hayden.martinez95@example.com,(209) 913-8964,phoenix,Arizona,USB-C Hub,Electronics,6,39.99,0.10,ACH,Completed,Ben Carter,
+ord-10089,July 6 2026,Robin Johnson,robin.johnson66@example.com,341-242-4324,Denver,CO,Water Bottle,ACCESSORIES,8,19.99,0.15,Invoice,Completed,Marcus Green,
+ORD-10393,06/09/2026,Riley Garcia,riley.garcia64@example.com,417.850.5344,Seattle,WA,Cable Organizer,Accessories,5,9.99,0.00,Credit Card,Pending,Priya Shah,Rush order
+ORD-10084,8/26/26,Morgan Clark,morgan.clark50example.com,423-607-1689,BOTHELL,Washington,Webcam,Electronics,2,54.99,0.15,ACH,Shipped,Ben Carter,
+ORD-10343,08/28/2026,Emerson Allen,emerson.allen62@example.com,496.517.4262,Bothell,WA,Wireless Mouse,Electronics,4,24.99,0.15,Invoice,Completed,Olivia Reed,
+ORD-10437,April 9 2026,Emerson Allen,emerson.allen62@example.com,496 517 4262,Bothell,WA,Ergonomic Chair,Furniture,4,289.00,20%,ACH,complete,Priya Shah,
+ORD-10630,"Jul 27, 2026",PARKER SMITH,parker.smith69@example.com,436 272 4258,Denver,CO,Webcam,Elec.,7,54.99,0.00,Debit Card,Completed,Marcus Green,
+ORD-10076,January 5 2026,Quinn Smith,quinn.smith89@example.com,(439) 236-1226,Portland,OR,Standing Desk,Furniture,4,449.00,0%,ACH,Pending,Marcus Green,
+ORD-10565,"Jan 24, 2026",Jamie Clark,jamie.clark43@example.com,353 278 1946,Bothell,WA,USB-C Hub,Electronics,4,39.99,0.05,Debit Card,Completed,Marcus Green,
+ORD-10096,02/21/2026, Emerson Brown ,emerson.brown91@example.com,298-918-9882,,CO,Laptop Stand,office,1,44.99,0.05,Credit Card,Completed,Marcus  Green,Repeat customer
+ORD-10513,02/12/2026,Robin Garcia,robin.garcia2@example.com,(242) 980-6479,Phoenix,AZ,Noise Cancelling Headphones,Electronics,7,129.99,0.00,Debit Card,Shipped,Maria Lopez,
+ORD-10296,January 4 2026,Jamie  Brown,jamie.brown17@example.com,2518083676,Everett,WA,Standing Desk,Furniture,1,$449.00,N/A,PayPal,Completed,Priya Shah,Customer requested email update
+ORD-10356,July 28 2026,Morgan Clark,morgan.clark50@example.com,(423) 607-1689, Bothell, WA ,Cable Organizer,Accessories,2,9.99,N/A,ACH,Done,Olivia Reed,Deliver to front desk
+ORD-10392,"Feb 21, 2026",HAYDEN MARTINEZ,hayden.martinez16@example.com,489.278.5593,Seattle,WA,Desk Lamp,Furniture,5,36.95,0.00,ACH,Completed,Daniel Kim,Customer requested email update
+ORD-10601,05/28/2026,Taylor Miller,taylor.miller36@example.con,401 287 1324,San Francisco,CA,USB-C Hub,Electronics,5,39.99,0.10,Invoice,Completed,Ben Carter,Customer requested email update
+ORD-10017,"Jun 30, 2026",Devin Martinez,devin.martinez7@example.com,2724557220,San Francisco,CA,Desk Lamp,,3,36.95,0.00,Invoice,Completed,Marcus Green,
+ORD-10311,08-11-2026,Parker Martinez,parker.martinez69example.com,213-784-2167,Renton, WA ,Ergonomic Chair,Furniture,3,289.00,0.10,PayPal,Shipped,Maria Lopez,
+ORD-10024,03/04/2026, Jordan Allen ,jordan.allen99@example.com,(338) 665-3668,Phoenix,AZ,Mechanical Keyboard,Electronics,1,74.99,0.00,invoice,Completed, Priya Shah ,
+ORD-10487,8/18/26, Parker Smith ,parker.smith69@example.com,(436) 272-4258,Denver ,CO,Backpack,Accessories,3, 64.95 ,0.00,Credit Card,Cancelled,Daniel Kim,Rush order
+ORD-10542,"Apr 17, 2026",Parker Williams,parker.williams16@example.com,(207) 944-1012,Phoenix,AZ,Laptop Stand,Office,6,44.99,10%,Debit Card,Pending,Daniel Kim,
+ORD-10231,March 28 2026,Avery Walker,avery.walker95@example.com,277.307.8257,Bellevue,WA,Standing Desk,Furniture,2,449.00,0.00,PayPal,Completed,Olivia Reed,Rush order
+ORD-10438,01/21/2026,Parker Williams,parker.williams16@example.com,207-944-1012,Phoenix,AZ,Desk Organizer,Office,5,$18.50,0.00,Debit Card,shipped,Ben Carter,Deliver to front desk
+ORD-10334,August 28 2026,morgan miller,morgan.miller38@example.com,316-821-6454,Portland ,OR,Desk Lamp,Furniture,3, 36.95 ,0.00,Debit Card,Pending,Marcus  Green,Customer requested email update
+ORD-10500,May 26 2026,Emerson Rodriguez,emerson.rodriguez51@example.com,448.725.6594,Renton,WA,Desk Lamp,furniture,3,36.95,0.20,PayPal,Shipped,Olivia Reed,
+ord-10235,3/15/26,Jordan Lee,jordan.lee34@example.com,447.585.5327,Seattle,WA,Webcam,electronics,3, 54.99 ,0.00,Credit Card,Completed, Daniel Kim ,
+ORD-10611,04/09/2026,Parker Martinez,parker.martinez69@example.com,213-784-2167,Renton,WA,Noise Cancelling Headphones,Electronic,1,129.99,0.10,Debit Card,Completed,Priya Shah,Call before delivery
+ORD-10201,08-22-2026,Parker Anderson,parker.anderson79@example.com,291.493.4498,Tacoma,WA,Notebook Set,Office,8,12.99,0.05,Debit Card,Shipped,Daniel Kim,Deliver to front desk
+ORD-10270,"May 17, 2026",Casey  Williams,casey.williams9@example.com,,Kirkland ,WA,Webcam,Elec.,N/A,54.99,0.00,Credit Card,Cancelled,Ben Carter,Call before delivery
+ORD-10165,06-10-2026,taylor wilson,taylor.wilson2@example.com,227-612-1831,Bothell,WA,Notebook set,,3,12.99,0.10,Invoice,Completed,Maria Lopez,
+ORD-10348,2026-07-06,Robin Lewis,,412-748-7546,Tacoma,WA,Backpack,Accessories,6,64.95,0.20,Debit Card,Pending,Priya Shah,Gift
+ORD-10252,2026-01-25,devin brown,devin.brown22@example.com,(295) 889-8168,Bellevue,WA,27in Monitor,Electronics,6, 219.99 ,0.20,PayPal,Completed,Daniel Kim,Gift
+ORD-10372,August 10 2026,Avery Davis,avery.davis25@example.com,420-455-3479,Phoenix,AZ,Mechanical Keyboard,Electronics,3,74.99,0.15,Paypal,Shipped,Priya Shah,Rush order
+ORD-10099,"Aug 03, 2026", Kendall Rodriguez ,KENDALL.RODRIGUEZ6@EXAMPLE.COM,396 895 5067,Seattle,WA,Mechanical Keyboard,Electronic,6,74.99,,Credit Card,COMPLETED,Priya Shah,Customer requested email update
+ORD-10687,7/24/26,Drew Smith,drew.smith79@example.com,,Seattle,WA,Standing Desk,Furniture,6,449.00,0.00,Debit Card,Canceled,Daniel Kim,Call before delivery
+ORD-10128,05/24/2026,Reese Miller,reese.miller10@example.com,(361) 630-6375,Redmond,WA,Backpack,Accessories,1,64.95,0.15,ACH,COMPLETED,Ben Carter,
+ORD-10563,05/12/2026,Kendall Brown,kendall.brown87@example.com,343-551-8961, San Francisco,ca,Wireless Mouse,Electronics,2,$24.99,0.00,Invoice,Done,Priya Shah,Deliver to front desk
+ORD-10651,2026-01-18,Parker Martinez,parker.martinez69@example.com,2137842167,Renton,WA,Desk Lamp,Furn.,2,$36.95,10%,Debit Card,Completed,Marcus Green,Deliver to front desk
+ORD-10463,2026-04-05,Cameron Wilson,cameron.wilson63@example.com,(270) 817-7736,Portland,OR,Noise Cancelling Headphones,Electronics,2,129.99,0%,ach,Pending,DANIEL KIM,Repeat customer
+ORD-10486,08/03/2026, Taylor Garcia ,taylor.garcia44@example.com,(425) 754-1047,Redmond,WA,"27"" Monitor",Electronics,4,219.99,,Credit Card,Completed,Maria Lopez,Call before delivery
+ORD-10633,March 18 2026,Quinn Garcia,quinn.garcia86@example.com,(347) 494-5615,San Francisco,CA,Webcam,Electronics,3,54.99,0.10,Invoice,Canceled,Olivia Reed,
+ORD-10215,"Jun 12, 2026",hayden martinez,hayden.martinez52@example.com,209.937.8544, Bellevue,WA,Desk Lamp,Furniture,7,36.95,0.00,Credit Card,Completed,Marcus Green,Call before delivery
+ORD-10448,06-07-2026,Taylor Lewis,taylor.lewis85@example.com,222-231-8278,Phoenix ,AZ,Ergonomic Chair,Furniture,8,289.00,,Debit Card,Completed,Daniel Kim,Rush order
+ORD-10679,2026-05-21,Avery Williams,avery.williams65@example.com,502.441.2205,Seattle,WA,Cable Organizer,Accessories,8,9.99,0%,Visa/Mastercard,Completed,Priya Shah,
+ord-10332,"Jun 01, 2026",Quinn Lee,quinn.lee57@example.com,368-457-2050,Bellevue ,Washington,Webcam,Electronics,7,54.99,N/A,ACH,Completed,Priya Shah,
+ORD-10258,"May 02, 2026",Devin Brown,devin.brown87@example.com,2374828499,Denver,CO,Backpack,Accessories,4,64.95,0.05,Invoice,Pending,Priya Shah,Rush order
+ORD-10583,03/19/2026, Hayden Davis ,hayden.davis46@example.con,342 230 1660,Kirkland,WA,Backpack,Acc.,2,64.95,5%,Credit Card,Completed,Marcus Green,
+ORD-10598,June 19 2026,Casey Young,casey.young58@example.com,289-701-6418,,WA,wireless mouse,electronics,2,24.99,0.10,PayPal,Pending,Maria Lopez,Gift
+ORD-10219,2026-03-18,Cameron Williams,cameron.williams15@example.com,443-467-9450,Denver, CO ,Desk Organizer,,4,$18.50,0.10,Credit Card,Cancelled,Olivia Reed,Rush order
+ORD-10514,1/17/26,Quinn Martinez,quinn.martinez10@example.com,4593238565,Renton,WA,ergonomic chair,furniture,3,289.00,0.00,Credit Card,complete,Priya Shah,Gift
+ORD-10662,July 8 2026,Robin Brown,robin.brown56@example.com,2458634651,Portland,OR,Standing Desk,Furniture,1,$449.00,0.00,Debit Card,Pending,Maria Lopez,Gift
+ORD-10186,September 1 2026,Taylor Davis,taylor.davis75@example.com,(429) 890-8711,Denver,CO,Wireless Mouse,Electronics,7,24.99,0.00,credit card,Completed,Maria Lopez,Repeat customer
+ORD-10557,August 6 2026,hayden rodriguez,hayden.rodriguez72@example.com,(445) 558-3662,,WA,Webcam,Electronics,8,54.99,,ACH,Cancelled,Marcus Green,
+ORD-10503,08/10/2026,Avery Martinez,avery.martinez57@example.com,326.475.7276,San Francisco,CA,Cable Organizer,Accessories,2, 9.99 ,N/A,PAYPAL,Shipped,Ben Carter,
+ORD-10016,2026-04-22,Cameron Anderson,cameron.anderson60@example.con,300-784-6957,redmond,wa,Laptop Stand,office,1,44.99,0.00,PayPal,Completed,Maria Lopez,Deliver to front desk
+ORD-10442,2026-03-13,Cameron Allen,cameron.allen55@example.com,(248) 217-4646,San Francisco,CA,Desk Organizer,Office,4,18.50,0.00,PayPal,Shipped,Olivia Reed,
+ORD-10385,April 3 2026,Skyler Wilson,skyler.wilson84@example.com,415-360-2062,Renton,WA,Backpack,Accessories,7,$64.95,0.00,PayPal,Completed,Priya Shah,Call before delivery
+ORD-10241,February 7 2026,Parker Williams,parker.williams28@example.com,480-418-7031,Seattle,WA,Cable Organizer,ACCESSORIES,3,9.99,0.10,PayPal,Completed,Marcus Green,
+ORD-10134,"May 13, 2026",Kendall Brown,kendall.brown87@example.com,3435518961,San Francisco,CA,Water Bottle,Accessories,8, 19.99 ,0.15,Invoice,Completed,Priya Shah,Deliver to front desk
+ORD-10528,2026-05-05,Cameron Thomas,cameron.thomas44@example.com,259-520-4617,Bellevue ,WA,Cable Organizer,Accessories,,9.99,0.05,PayPal,Completed,Olivia Reed,
+ORD-10417,01/16/2026,Parker Anderson,parker.anderson79@example.com,291-493-4498,Tacoma,WA,standing desk,Furniture,2,449.00,0.00,ACH,complete,Olivia Reed,Deliver to front desk
+ORD-10689,01/26/2026,Skyler Wilson,skyler.wilson84@example.com,415-360-2062,Renton,WA,Ergonomic Chair,Furniture,8,289.00,0.00,Credit Card,Shipped,Marcus Green,Rush order
+ORD-10597,02/18/2026,Parker Williams, parker.williams28@example.com ,480 418 7031,Seattle,WA,USB-C Hub,electronics,5,39.99,0.00,ACH,Cancelled,Maria Lopez,Gift
+ORD-10449,07/08/2026,Cameron Smith,cameron.smith15@example.com,(364) 720-1120, Denver,Colorado,cable organizer,Accessories,5,9.99,0.05,PayPal,Cancelled,Marcus Green,
+ORD-10494,03-16-2026,Jordan Jones,jordan.jones94@example.com,,Kirkland, WA ,27in Monitor,Electronics,3,219.99,0.00,Invoice,Completed,PRIYA SHAH,
+ORD-10135,"May 16, 2026",quinn lewis,quinn.lewis84@example.com,292.310.1235,Redmond,WA,Noise Cancelling Headphones,Electronics,5,129.99,0.00,Debit Card,Completed,Maria Lopez,
+ORD-10359,08-25-2026,Hayden Martinez,hayden.martinez16@example.com,4892785593,Seattle,WA,Standing Desk,Furniture,7,449.00,0%,invoice,Completed,Olivia Reed,Rush order
+ORD-10227,01/31/2026,Sam Harris,sam.harris67@example.com,344-542-4152,Bellevue,WA,USB-C Hub,Electronics,1,39.99,0.00,Invoice,Completed,Daniel Kim,Repeat customer
+ORD-10470,4/29/26,Robin Wilson,robin.wilson26@example.com,429.845.1003,Denver ,CO,Ergonomic Chair,Furniture,1, 289.00 ,5%,PayPal,Completed,Olivia Reed,Repeat customer
+ORD-10013,4/30/26,Morgan Davis,morgan.davis16@example.com,(338) 502-8222,Renton,WA,Desk Organizer,Office Supplies,3,18.50,0.00,Invoice,Shipped,Olivia Reed,Rush order
+ORD-10240,05/03/2026,Morgan Miller,morgan.miller38@example.com,316-821-6454,Portland,OR,Mechanical Keyboard,Electronics,5,74.99,0.00,Invoice,Completed,Olivia Reed,
+ORD-10339,8/26/26,CAMERON WILLIAMS,cameron.williams15@example.com,443-467-9450,Denver,CO,Standing Desk,Furniture,8,449.00,0.05,ACH,Completed,Daniel Kim,Gift
+ORD-10020,02/04/2026,Cameron Wilson,cameron.wilson63@example.com,(270) 817-7736,Portland,OR,Desk Lamp,Furniture,1,36.95,0.00,CC,Shipped,Daniel Kim,Gift
+ORD-10233,8/22/26,jordan jones,jordan.jones94example.com,284.826.8598,Kirkland,WA,USB-C Hub,Elec.,3,39.99,0.00,ach,Pending, Olivia Reed ,
+ORD-10427,"Jul 23, 2026",Skyler Miller,skyler.miller67@example.com,433-298-2872,Portland,OR,Ergonomic Chair,Furniture,7,289.00,0.00,Debit,Completed,Priya Shah,
+ORD-10576,2026-01-31,CASEY SMITH,casey.smith32@example.com,489 234 7594,Bothell,WA,Mechanical Keyboard,Electronics,6, 74.99 ,0.15,Debit Card,Shipped,Daniel Kim,
+ORD-10335,January 31 2026,Skyler Thomas,skyler.thomas74@example.com,479.630.2772,Bellevue,wa,Laptop Stand,Office,2,44.99,0.05,Debit Card,COMPLETED,Ben Carter,Customer requested email update
+ORD-10308,May 24 2026,Taylor Lee,taylor.lee82@example.com,250.287.8882,Denver,CO,USB-C Hub,Electronics,1,39.99,0.15,PayPal,COMPLETED,Olivia Reed,Repeat customer
+ORD-10174,04-24-2026, Devin Martinez ,devin.martinez7@example.com,(272) 455-7220,San Francisco,California,Laptop Stand,Office,8,44.99,0.00,credit card,Pending,Olivia Reed,Deliver to front desk
+ORD-10492,07/25/2026,Cameron Garcia,cameron.garcia22@example.con,(239) 633-4369,Bothell, WA ,Desk Organizer,Office,7,18.50,0.00,ACH,Completed, Olivia Reed ,Repeat customer
+ORD-10441,2026-07-26,Parker Smith,parker.smith69@example.com,4362724258,Denver,CO,27in Monitor,Electronics,4,219.99,0.15,ACH,pending,Priya Shah,
+ORD-10592,April 7 2026,Cameron Williams,cameron.williams15@example.com,443-467-9450,DENVER,CO,Standing Desk,Furniture,6,449.00,0.10,Invoice,Completed,priya shah,Gift
+ORD-10577,6/20/26,Taylor Davis,taylor.davis75@example.com,429-890-8711,Denver,CO,Notebook Set,Office Supplies,3,12.99,0.00,Credit Card,Completed,daniel kim,Deliver to front desk
+ORD-10505,"Mar 28, 2026",Morgan Thomas,morgan.thomas69@example.com,,Everett,Washington,desk lamp,Furniture,1, 36.95 ,10%,ACH,Completed,Maria Lopez,Call before delivery
+ORD-10088,March 19 2026, Robin Garcia ,robin.garcia2@example.com,2429806479,Phoenix,AZ,Laptop Stand,Office,5,44.99,0.00,Credit Card,Pending,ben carter,
+ORD-10229,August 9 2026,Parker Williams,parker.williams28@example.com,480 418 7031,Seattle,WA,Laptop Stand,Office,8,44.99,,ACH,COMPLETED,Ben Carter,Call before delivery
+ORD-10582,1/16/26,alex allen,alex.allen21@example.com,390.750.3697,,WA,USB-C Hub,,3,39.99,0.05,Debit Card,Completed,Ben Carter,
+ORD-10593,9/3/26,Cameron Rodriguez,cameron.rodriguez35@example.com,307 861 3752,Bellevue,WA,Desk Organizer,Office,7,18.50,0.20,PayPal,Completed,Maria Lopez,Gift
+ORD-10066,03/04/2026,Casey Rodriguez,casey.rodriguez42@example.com,2896727252, Kirkland,WA,Notebook Set,Office,1,12.99,0.10,PayPal,Completed,DANIEL KIM,Gift
+ORD-10475,7/19/26,Parker Martinez,parker.martinez69example.com,(213) 784-2167,Renton,WA,Ergonomic Chair,Furniture,7,289.00,0.00,CC,Completed,Ben Carter,Customer requested email update
+ORD-10526,July 26 2026,QUINN SMITH,quinn.smith89@example.com,439 236 1226,Portland,OR,Desk Lamp,Furniture,8,36.95,0.15,ACH,Shipped,Daniel Kim,Customer requested email update
+ORD-10561,06-15-2026,Hayden Rodriguez,hayden.rodriguez72@example.com,,everett,WA,Laptop Stand,OFFICE,3,$44.99,0.05,Invoice,Completed,Priya Shah,Deliver to front desk
+ORD-10115,04-11-2026,Robin Wilson,robin.wilson26@example.com,4298451003,Denver,CO,USB-C Hub,Electronics,3,$39.99,0.00,Invoice,Completed, Ben Carter ,
+ORD-10194,4/10/26,Reese Miller,reese.miller10@example.com,361-630-6375,Redmond,WA,Desk Organizer,Office,1,18.50,0.00,Credit Card,Pending,Olivia Reed,
+ORD-10573,07-28-2026,Alex Smith, alex.smith11@example.com ,260-517-4429,renton,WA,Water Bottle,Acc.,2,19.99,0.05,ACH,Cancelled,Marcus Green,
+ORD-10320,04/15/2026,Skyler Allen,skyler.allen98@example.com,(276) 500-4158,RENTON,Washington,Backpack,Accessories,8,64.95,0.00,PayPal,Completed,Ben Carter,Call before delivery
+ORD-10323,January 31 2026,Emerson Young,emerson.young46@example.com,3547035120,Portland,Oregon,Ergonomic Chair,Furniture,5,$289.00,0.00,ACH,Shipped,Olivia Reed,Gift
+ORD-10674,1/23/26,Parker Martinez,parker.martinez69@example.com,(213) 784-2167,Renton,WA,Cable Organizer,Accessories,5,9.99,0%,ACH,Pending,Daniel Kim,Call before delivery
+ORD-10218,January 20 2026,Avery Clark,avery.clark6@example.com,505.400.9478,Tacoma,WA,Mechanical Keyboard,Electronics,8,74.99,0.10,Credit Card,Refunded,Ben Carter,
+ORD-10502,April 30 2026,Robin Lewis,ROBIN.LEWIS51@EXAMPLE.COM,(412) 748-7546,Tacoma,WA,USB-C Hub,Electronic,6, 39.99 ,0.00,Invoice,Completed,Maria Lopez,Call before delivery
+ORD-10328,04/25/2026, Hayden Martinez ,hayden.martinez52@example.com,2099378544,BELLEVUE,WA,27in Monitor,Electronics,8,$219.99,0.15,Debit Card,Shipped,Olivia Reed,
+ORD-10476,2026-06-02, Hayden Davis ,hayden.davis26@example.com,300-238-9156,Portland,OR,Mechanical Keyboard,Electronic,2,74.99,10%,PAYPAL,Shipped,Priya Shah,Customer requested email update
+ORD-10290,2026-07-22,Avery Clark,avery.clark6@example.com,(505) 400-9478,Tacoma,WA,Cable Organiser,Accessories,3,9.99,0.10,ACH,complete,Daniel Kim,Rush order
+ORD-10307,"May 21, 2026", Emerson Allen ,emerson.allen62@example.com,496.517.4262,Bothell,WA,Standing Desk,Furniture,7,449.00,,Debit Card,Completed, Daniel Kim ,Rush order
+ord-10382,5/4/26,Avery Allen,avery.allen48@example.com,4722681080,Renton,WA,Webcam,Electronics,8,54.99,0.10,Invoice,Completed,Ben Carter,
+ORD-10697,07-19-2026,robin anderson,robin.anderson83@example.com,386.628.9091,Bothell,WA,Noise Cancelling Headphones,,2,129.99,0.10,ACH,Shipped,Marcus Green,
+ORD-10114,03/11/2026,Drew Allen,drew.allen33@example.com,427.615.1370,Renton,Washington,USB-C Hub,Electronics,1,$39.99,5%,Paypal,Pending,Ben Carter,
+ORD-10443,7/17/26,Riley Young,riley.young41@example.com,479 429 2675,kirkland,WA,Webcam,Electronics,1,54.99,0.00,PayPal,Completed,ben carter,
+ORD-10263,"Jan 07, 2026",Casey Smith,casey.smith32@example.com,(489) 234-7594,bothell,Washington,27in Monitor,Electronics,2,219.99,5%,Debit Card,Completed,Olivia Reed,Deliver to front desk
+ORD-10001,2026-01-31,Cameron Williams,cameron.williams15@example.com,443.467.9450,Denver,CO,water bottle,Accessories,6,19.99,0.00,Invoice,Completed,Marcus Green,Repeat customer
+ORD-10608,3/2/26,Sam Clark,sam.clark32@example.com,419-723-3006,Redmond,WA,Desk Lamp,Furniture,7,36.95,0%,PayPal,Completed,Ben Carter,Gift
+ORD-10206,4/21/26,Skyler Thomas,skyler.thomas74@example.com,479 630 2772,Bellevue,WA,Notebook Set,Office,2, 12.99 ,,Credit Card,Completed,Daniel Kim,Deliver to front desk
+ORD-10256,05-02-2026,Alex Allen,alex.allen21@example.com,(390) 750-3697,Seattle,WA,Webcam,Electronics,4,54.99,0.00,Debit Card,Completed,Olivia Reed,Deliver to front desk
+ORD-10540,1/10/26,Emerson Smith,EMERSON.SMITH75@EXAMPLE.COM,2705428254,,AZ,Cable Organiser,Accessories,2,9.99,0.05,Debit Card,Shipped,Marcus Green,
+ORD-10559,03/24/2026,Hayden Davis,hayden.davis26@example.com,300 238 9156,portland,OR,Notebook Set,Office,7,$12.99,0.10,PayPal,Refunded,MARIA LOPEZ,Deliver to front desk
+ORD-10045,06/09/2026,Avery Williams,avery.williams65@example.com,502-441-2205,Seattle,WA,Desk Lamp,,8,36.95,0.10,Debit Card,Shipped,Marcus Green,Gift
+ORD-10469,07-12-2026,AVERY WILLIAMS,avery.williams65@example.com,502-441-2205,Seattle,WA,Noise Cancelling Headphones,Electronics,8,$129.99,0.00,Debit Card,Completed, Daniel Kim ,
+ORD-10130,07/09/2026,Emerson Jones,emerson.jones69@example.com,3557472811,Bellevue,WA,Desk Lamp,Furniture,3,36.95,0%,PayPal,Shipped,Daniel Kim,Gift
+ORD-10168,6/30/26,QUINN SMITH,quinn.smith89@example.com,(439) 236-1226,Portland,or,USB-C Hub,Electronics,5,$39.99,0.10,PayPal,Completed,Marcus Green,Customer requested email update
+ORD-10292,01/12/2026,kendall harris,kendall.harris72@example.com,(488) 629-7416,Tacoma ,WA,Wireless Mouse,Electronics,1,24.99,0.10,Debit Card,Shipped,MARCUS GREEN,Customer requested email update
+ORD-10046,03-15-2026,TAYLOR MILLER,taylor.miller36@example.com,(401) 287-1324,San Francisco,CA,Desk Lamp,furniture,5,36.95,0.00,PayPal,Pending,Maria Lopez,Customer requested email update
+ORD-10287,1/25/26,Cameron Garcia,cameron.garcia22@example.com,239-633-4369,Bothell,WA,Ergo Chair,furniture,3,289.00,10%,Invoice,Pending,Ben  Carter,Rush order
+ORD-10429,"Jun 27, 2026",Cameron Wilson,cameron.wilson63@example.com,,Portland,OR,Cable Organizer,accessories,1,$9.99,10%,Invoice,Shipped,Olivia Reed,
+ORD-10545,01/25/2026,Drew Brown,drew.brown25@example.com,480-954-8795,EVERETT,WA,Standing Desk,Furniture,8,449.00,0.15,Invoice,Completed,ben carter,Call before delivery
+ORD-10312,5/16/26,Skyler Miller,skyler.miller67@example.com,(433) 298-2872,Portland,or,LaptopStand,Office,2,44.99,,ACH,Shipped,Ben  Carter,Rush order
+ORD-10668,02/14/2026,Hayden Rodriguez,hayden.rodriguez72example.com,445-558-3662,everett,WA,Desk Lamp,Furniture,5,36.95,0.00,PayPal,Completed,Priya Shah,Deliver to front desk
+ORD-10524,8/11/26, Avery Walker ,avery.walker95@example.com,277-307-8257,BELLEVUE,WA,Water Bottle,Accessories,3,19.99,0.05,Bank Transfer,complete,Ben Carter,
+ORD-10188,7/13/26,Skyler Allen,skyler.allen18@example.com,2927308507,Redmond,WA,Reusable Bottle,Accessories,5,19.99,0.05,Debit Card,Completed,Olivia Reed,
+ORD-10418,3/16/26,Emerson Miller,emerson.miller25@example.com,3137997329,tacoma,wa,Webcam,Electronics,4,54.99,0.05,Credit Card,Completed,Daniel Kim,
+ORD-10432,3/2/26,Emerson Thomas,emerson.thomas30@example.com,3384098326,Renton,WA,Laptop Stand,Office,5,44.99,0.10,PayPal,Completed,Ben Carter,
+ORD-10266,07-12-2026,Emerson Jones,emerson.jones3@example.com,4384043110,Tacoma,WA,Ergonomic Chair,Furniture,5,289.00,0.05,ACH,Completed, Priya Shah ,
+ORD-10353,2026-05-12,Taylor Davis,taylor.davis75@example.com,429 890 8711, Denver,CO,USB-C Hub,Electronics,7,39.99,0.00,Invoice,Completed,Marcus Green,Repeat customer
+ord-10434,8/9/26,Parker Anderson,parker.anderson40@example.com,(462) 710-2122,tacoma,WA,27in Monitor,Electronics,7,219.99,0.00,Invoice,Cancelled,Daniel Kim,Repeat customer
+ORD-10421,6/24/26,Morgan Miller,morgan.miller38@example.com,316.821.6454,Portland,OR,Backpack,Accessories,4,$64.95,,Invoice,Shipped,Marcus Green,Repeat customer
+ORD-10308,May 24 2026,Taylor Lee,taylor.lee82@example.com,250.287.8882,Denver,CO,USB-C Hub,Electronics,1,39.99,0.15,PayPal,COMPLETED,Olivia Reed,Repeat customer
+ORD-10575,05/31/2026,Morgan Miller, morgan.miller38@example.com ,316 821 6454,Portland,Oregon,Standing Desk,Furn.,1,449.00,15%,Invoice,Cancelled,OLIVIA REED,Rush order
+ORD-10535,2026-01-10,Devin Brown,devin.brown22@example.com,295-889-8168,Bellevue,wa,Ergonomic Chair,Furniture,4,$289.00,0.00,PayPal,Pending,Maria Lopez,Repeat customer
+ord-10696,04/27/2026,Hayden Davis,hayden.davis91@example.com,236-977-8460,san francisco,CA,Webcam,ELECTRONICS,3,$54.99,0.15,Debit,Completed,Maria Lopez,Repeat customer
+ORD-10405,March 11 2026,Quinn Smith,quinn.smith89@example.com,(439) 236-1226,Portland,OR,Water Bottle,Accessories,7,19.99,0.10,Bank Transfer,Completed,Marcus Green,
+ORD-10216,05/15/2026,Cameron Allen,cameron.allen55@example.com,2482174646,San Francisco,CA,Standing Desk,Furniture,8, 449.00 ,0.05,Credit Card,Completed,Priya Shah,Gift
+ORD-10673,08/31/2026, Robin Garcia ,robin.garcia21@example.com,321.934.6686,Tacoma, WA ,27in Monitor,ELECTRONICS,3, 219.99 ,0.10,Invoice,Completed,maria lopez,
+ORD-10068,2026-02-12,Cameron Anderson,cameron.anderson60@example.com,300 784 6957,Redmond,WA,Desk Organizer,Office,2,$18.50,0.00,Invoice,Pending,Ben Carter,Rush order
+ORD-10154,07/30/2026,Quinn Martinez,quinn.martinez10@example.com,459-323-8565,Renton,WA,Wireless Mouse,Electronics,5, 24.99 ,0.00,PayPal,Completed,Olivia Reed,Gift
+ORD-10085,04-04-2026,Hayden Davis,hayden.davis91@example.com,(236) 977-8460,San Francisco ,CA,Ergonomic Chair,Furniture,4,289.00,0.05,PayPal,complete,Priya Shah,Customer requested email update
+ORD-10225,2026-05-25,Parker Anderson, parker.anderson79@example.com ,2914934498,Tacoma,WA,Mechanical Keyboard,Electronics,4,74.99,0.00,ACH,Completed,Olivia Reed,Call before delivery
+ORD-10042,08-31-2026,Taylor Miller,taylor.miller36@example.com,(401) 287-1324,San Francisco,CA,Mechanical Keyboard,Electronic,6,$74.99,,PayPal,Completed,Daniel Kim,Repeat customer
+ORD-10333,May 22 2026,Quinn Martinez,quinn.martinez10@example.com,459 323 8565,Renton,WA,Mechanical Keyboard,Electronics,4,74.99,0.00,Paypal,Pending,Priya  Shah,
+ORD-10006,1/11/26,SKYLER BROWN, skyler.brown73@example.com ,395.971.3990,TACOMA,WA,Ergonomic Chair,Furniture,5,289.00,,Invoice,Completed,Priya Shah,
+ORD-10566,5/27/26,Emerson  Brown,emerson.brown67@example.com,,Renton,wa,Webcam,Electronics,8,54.99,0.00,ach,Shipped, Ben Carter ,Gift
+ORD-10538,05-30-2026,Quinn Brown,quinn.brown80@example.com,273-991-5467,portland,OR,USB-C Hub,Electronics,4,39.99,0.15,ACH,Shipped,Priya Shah,
+ORD-10352,"Mar 13, 2026",Robin Williams,robin.williams45@example.com,438 586 5166,Seattle,WA,Cable Organizer,Accessories,7, 9.99 ,,PayPal,Completed, Priya Shah ,Deliver to front desk
+ ORD-10040 ,2026-08-31,HAYDEN MARTINEZ,hayden.martinez16@example.com,(489) 278-5593,seattle,Washington,Stand-up Desk,Furn.,8, 449.00 ,0.00,Debit Card,Shipped,Priya Shah,Customer requested email update
+ORD-10147,5/9/26,cameron anderson,cameron.anderson60@example.con,300-784-6957,Redmond,WA,Wireless Mouse,Electronics,5, 24.99 ,0.00,PayPal,Completed,Priya Shah,
+ord-10446,05/05/2026,Devin Martinez,devin.martinez7@example.com,2724557220,SAN FRANCISCO,California,Wireless Mouse,ELECTRONICS,3,$24.99,0.00,ACH,Completed,Priya Shah,
+ORD-10097,1/13/26,Quinn Lewis,quinn.lewis84@example.com,292.310.1235,Redmond,WA,Desk Lamp,Furniture,two,36.95,0.10,Credit Card,Completed,MARIA LOPEZ,
+ORD-10363,2026-01-25,Parker Williams,parker.williams28@example.com,480-418-7031,Seattle,WA,mechanical keyboard,Electronics,8, 74.99 ,N/A,Debit Card,Completed,Ben Carter,
+ORD-10424,03/12/2026,Alex Smith,ALEX.SMITH11@EXAMPLE.COM,2605174429,Renton,WA,Mechanical Keyboard,Electronics,4,$74.99,5%,Invoice,Completed,Olivia Reed,Deliver to front desk
+ORD-10683,June 29 2026,Morgan Miller,morgan.miller50@example.com,3172873257,Everett,WA,Webcam,Electronics,1,54.99,0.00,Invoice,Completed,daniel kim,Gift
+ord-10125,07/15/2026,Drew Lewis,drew.lewis89@example.com,236-791-2856,Bellevue,wa,Laptop Stand,OFFICE,3,44.99,0.05,ach,Shipped,Daniel Kim,Rush order
+ORD-10200,04/01/2026,Kendall Anderson,kendall.anderson89@example.com,501 556 4508,Bothell,WA,Notebooks,Office,6,12.99,0.00,ACH,Cancelled,Daniel Kim,
+ORD-10074,03/19/2026,Parker Martinez,parker.martinez69example.com,213 784 2167,renton,WA,Noise Cancelling Headphones,Electronics,two,129.99,0.10,ACH,Completed,MARCUS GREEN,Call before delivery
+ORD-10483,04-04-2026,Riley  Young,riley.young41@example.com,4794292675,Kirkland,WA,Water Bottle,Accessories,7,19.99,0.10,PayPal,Completed,Priya Shah,Deliver to front desk
+ORD-10152,01/04/2026,Taylor Lee,taylor.lee71@example.com,342-696-8331,San Francisco,CA,Webcam,Elec.,4,54.99,N/A,Paypal,Completed,Priya Shah,Customer requested email update
+ORD-10029,02/20/2026,Taylor Wilson,taylor.wilson2@example.com,(227) 612-1831,Bothell,WA,Cable Organizer,Accessories,2,9.99,0.10,Invoice,Shipped,Maria Lopez,Repeat customer
+ORD-10560,02/27/2026,Robin Williams,robin.williams45@example.com,4385865166,Seattle,WA,Standing Desk,Furniture,6,$449.00,0.10,Debit Card,Completed,OLIVIA REED,
+ORD-10303,2026-01-26,Hayden Wilson,hayden.wilson18@example.com,233-766-9186,Bothell,WA,Webcam,Electronic,2,54.99,0.20,Credit Card,Completed,Ben Carter,
+ORD-10650,2026-07-03,Devin Young,devin.young2example.com,2904183059,kirkland,WA,Standing Desk,furniture,3,449.00,0.00,Debit Card,Pending,daniel kim,Repeat customer
+ORD-10386,2026-08-03,Cameron  Rodriguez,cameron.rodriguez35@example.com,(307) 861-3752,Bellevue,WA,Backpack,accessories,3,64.95,0.00,Invoice,Shipped,Olivia Reed,
+ORD-10080,4/30/26,Skyler Wilson,skyler.wilson84@example.com,415 360 2062,Renton,WA,Wireless Mouse,Electronics,3,$24.99,0.10,PAYPAL,Shipped,marcus green,Repeat customer
+ORD-10506,"Mar 10, 2026",Parker Williams,parker.williams28@example.com,4804187031,Seattle ,WA,Desk Lamp,Furniture,8,36.95,0.05,PayPal,Completed,Daniel Kim,Call before delivery
+ORD-10482,8/11/26,Sam Harris,sam.harris67@example.com,(344) 542-4152,Bellevue,WA,USB-C Hub,Elec.,5,$39.99,0.10,ACH,Completed,Olivia Reed,Gift
+ORD-10347,2026-06-30,Drew Johnson,drew.johnson40@example.com,2969606865,Phoenix,AZ,Noise Cancelling Headphones,,3,$129.99,0.00,Invoice,Pending,Olivia Reed,
+ORD-10148,"May 20, 2026",Drew Allen,drew.allen33@example.com,427.615.1370, Renton,WA,Desk Organizer,Office,3,18.50,0.00,ACH,Completed, Ben Carter ,Deliver to front desk
+ORD-10373,8/2/26,Kendall Anderson,kendall.anderson89@example.com,501.556.4508,Bothell,WA,Notebook Set,Office,4,12.99,0.00,Credit Card,Pending,olivia reed,Gift
+ORD-10003,08/08/2026,Kendall Rodriguez,kendall.rodriguez6@example.com,(396) 895-5067,Seattle,WA,Webcam,Electronics,3,54.99,0.05,Credit Card,Done,Priya Shah,Repeat customer
+ORD-10699,03/29/2026,Cameron Garcia,cameron.garcia22@example.com,239-633-4369,Bothell,WA,Ergonomic Chair,furniture,2, 289.00 ,0%,Debit Card,Completed,Priya Shah,Call before delivery
+ORD-10680,"Apr 01, 2026",Jordan Lewis,jordan.lewis74@example.com,259-533-6902,Bellevue,WA,Laptop Stand,Office,N/A,44.99,0.00,PayPal,Completed,Maria Lopez,
+ORD-10272,2026-04-03,Hayden Martinez,hayden.martinez95@example.com,2099138964,Phoenix, AZ ,desk lamp,Furniture,7,36.95,0.20,PayPal,Done,Ben Carter,
+ORD-10370,2026-07-23,Taylor Lee,taylor.lee71@example.com,342 696 8331,San Francisco,CA,Desk Organizer,Office,6,$18.50,0.15,Invoice,Completed,Ben Carter,
+ORD-10261,03/19/2026,Drew Allen,drew.allen33@example.com,427.615.1370,Renton,WA,Desk Lamp,FURNITURE,8,36.95,0.00,PayPal,Completed,MARIA LOPEZ,
+ORD-10056,2026-01-20,Jordan Jones,jordan.jones94@example.com,284-826-8598,Kirkland ,WA,Laptop Stand,Office,3,44.99,0.10,Debit Card,Shipped,daniel kim,Call before delivery
+ORD-10376,2026-04-28,Devin Martinez,devin.martinez7@example.com,(272) 455-7220,San Francisco,ca,Laptop Stand,Office,5,44.99,0.00,ACH,Refunded,Maria Lopez,Repeat customer
+ORD-10269,04/28/2026, Quinn Thomas ,quinn.thomas25@example.com,391.958.5594,Redmond,WA,Water Bottle,Accessories,3,19.99,10%,Invoice,Completed,Marcus Green,Repeat customer
+ORD-10672,05-02-2026,Drew Johnson,drew.johnson40@example.com,296.960.6865,Phoenix,AZ,Noise Cancelling Headphones,Electronics,8, 129.99 ,0.10,Debit Card,Pending,daniel kim,
+ORD-10629,"Jun 27, 2026",Skyler Brown,skyler.brown73@example.com,(395) 971-3990,Tacoma ,WA,desk lamp,Furniture,7,36.95,N/A,ACH,COMPLETED,Marcus Green,
+ORD-10622,02/26/2026,Parker Anderson,parker.anderson79@example.com,(291) 493-4498,Tacoma,WA,Laptop Stand,Office,,44.99,0.15,PayPal,Shipped,Priya Shah,
+ORD-10361,04-04-2026,drew smith,drew.smith79@example.com,375.339.7404,seattle,WA,Desk Lamp,Furniture,3,36.95,0.10,Invoice,Completed,MARCUS GREEN,
+ORD-10501,04/23/2026,DREW BROWN,drew.brown25@example.com,(480) 954-8795,Everett,WA,Mechanical Keyboard,Electronics,2,74.99,0.05,Invoice,Completed,MARCUS GREEN,Gift
+ORD-10458,2026-08-05,Drew Wilson,drew.wilson39@example.com,500-732-9821,Bothell,WA,mechanical keyboard,Electronics,5,74.99,0.05,ACH,Completed,Marcus Green,
+ORD-10167,6/11/26,Emerson Jones,emerson.jones3@example.com,4384043110,TACOMA,WA,Wireless Mouse,Electronics,2,$24.99,0.05,Debit Card,Completed,Olivia Reed,Customer requested email update
+ORD-10693,"Jan 04, 2026",Morgan Miller, morgan.miller38@example.com ,,Portland,OR,Ergonomic Chair,Furniture,7,289.00,0%,PayPal,Shipped,Daniel Kim,Customer requested email update
+ORD-10254,"Aug 14, 2026",Morgan Martinez,morgan.martinez83@example.com,340-884-8175,Bothell,WA,Noise Cancelling Headphones,Electronics,7,129.99,0.05,Debit Card,complete,Ben Carter,
+ORD-10692,January 22 2026,Drew Johnson,drew.johnson40@example.com,(296) 960-6865,,Arizona,Ergonomic Chair,Furniture,7,289.00,0.00,PayPal,Completed,Maria Lopez,
