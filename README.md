@@ -13,14 +13,23 @@ The final workbook included the original raw data, the cleaned dataset, lookup t
 What tools/techniques did I use?
 
 I completed the project in Microsoft Excel using:
+
 •	Excel Tables
+
 •	XLOOKUP
+
 •	TRIM, PROPER, SUBSTITUTE, IF, IFERROR, and other cleaning formulas
+
 •	Conditional Formatting
+
 •	Filters and sorting
+
 •	Duplicate analysis
+
 •	Lookup tables for standardization
+
 •	Data validation and quality checks
+
 •	Structured documentation through a cleaning log and exception tracking
 
 How is this useful for clients considering my services?
